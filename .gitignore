@@ -1,0 +1,41 @@
+# Environment files & Secrets
+.env
+.env.local
+.env.production
+backend/.env
+
+# Python & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+backend/venv/
+venv/
+ENV/
+env/
+.pytest_cache/
+
+# Databases
+*.sqlite3
+*.db
+doc_intelligence.db
+backend/doc_intelligence.db
+
+# Node & Frontend Build Artifacts
+frontend/node_modules/
+node_modules/
+frontend/dist/
+dist/
+.vite/
+
+# Uploaded User Documents & Storage
+storage/*
+!storage/.gitkeep
+
+# IDE & OS Specific
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
