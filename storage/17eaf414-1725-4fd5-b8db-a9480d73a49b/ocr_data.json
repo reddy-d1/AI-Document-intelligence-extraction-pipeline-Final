@@ -1,0 +1,1328 @@
+{
+  "raw_text": "SAMPLE BANK STATEMENT\n\nFOR DEMONSTRATION / EDUCATIONAL USE ONLY\n\nAccount Summary\n\nTransaction Details\n\nImportant Notice: This document is a fictional sample created for formatting, learning, or demonstration purposes. It is not issued by a real bank and must not be used as proof of funds, identity, income, or financial activity.\n\n\n--- Table 1 ---\n| Bank | ABC National Bank (Sample) |\n| Account Holder | Renu P. (Sample Customer) |\n| Account Number | XXXX XXXX 4582 |\n| Statement Period | 01 August 2026 – 10 August 2026 |\n\n\n--- Table 2 ---\n| Opening Balance | Total Credits | Total Debits |\n| ₹25,000.00 | ₹18,500.00 | ₹9,750.00 |\n| Closing Balance | ₹33,750.00 | ₹33,750.00 |\n\n\n--- Table 3 ---\n| Date | Description | Type | Amount | Balance |\n| 01-Aug-2026 | Opening Balance | — | — | ₹25,000.00 |\n| 02-Aug-2026 | UPI Credit – Sample Salary | Credit | ₹15,000.00 | ₹40,000.00 |\n| 03-Aug-2026 | ATM Withdrawal – Sample | Debit | ₹5,000.00 | ₹35,000.00 |\n| 05-Aug-2026 | UPI Payment – Grocery | Debit | ₹2,250.00 | ₹32,750.00 |\n| 07-Aug-2026 | NEFT Credit – Sample | Credit | ₹3,500.00 | ₹36,250.00 |\n| 09-Aug-2026 | Online Payment – Utilities | Debit | ₹2,500.00 | ₹33,750.00 |\n| 10-Aug-2026 | Closing Balance | — | — | ₹33,750.00 |",
+  "confidence": 1.0,
+  "pages": [
+    {
+      "page_num": 1,
+      "text": "SAMPLE BANK STATEMENT\n\nFOR DEMONSTRATION / EDUCATIONAL USE ONLY\n\nAccount Summary\n\nTransaction Details\n\nImportant Notice: This document is a fictional sample created for formatting, learning, or demonstration purposes. It is not issued by a real bank and must not be used as proof of funds, identity, income, or financial activity.\n\n\n--- Table 1 ---\n| Bank | ABC National Bank (Sample) |\n| Account Holder | Renu P. (Sample Customer) |\n| Account Number | XXXX XXXX 4582 |\n| Statement Period | 01 August 2026 – 10 August 2026 |\n\n\n--- Table 2 ---\n| Opening Balance | Total Credits | Total Debits |\n| ₹25,000.00 | ₹18,500.00 | ₹9,750.00 |\n| Closing Balance | ₹33,750.00 | ₹33,750.00 |\n\n\n--- Table 3 ---\n| Date | Description | Type | Amount | Balance |\n| 01-Aug-2026 | Opening Balance | — | — | ₹25,000.00 |\n| 02-Aug-2026 | UPI Credit – Sample Salary | Credit | ₹15,000.00 | ₹40,000.00 |\n| 03-Aug-2026 | ATM Withdrawal – Sample | Debit | ₹5,000.00 | ₹35,000.00 |\n| 05-Aug-2026 | UPI Payment – Grocery | Debit | ₹2,250.00 | ₹32,750.00 |\n| 07-Aug-2026 | NEFT Credit – Sample | Credit | ₹3,500.00 | ₹36,250.00 |\n| 09-Aug-2026 | Online Payment – Utilities | Debit | ₹2,500.00 | ₹33,750.00 |\n| 10-Aug-2026 | Closing Balance | — | — | ₹33,750.00 |",
+      "confidence": 1.0,
+      "word_boxes": [
+        {
+          "word": "SAMPLE",
+          "x": 50,
+          "y": 18,
+          "w": 48,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "BANK",
+          "x": 50,
+          "y": 36,
+          "w": 32,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "STATEMENT",
+          "x": 50,
+          "y": 54,
+          "w": 72,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "FOR",
+          "x": 50,
+          "y": 72,
+          "w": 24,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "DEMONSTRATION",
+          "x": 50,
+          "y": 90,
+          "w": 104,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "/",
+          "x": 50,
+          "y": 108,
+          "w": 8,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "EDUCATIONAL",
+          "x": 50,
+          "y": 126,
+          "w": 88,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "USE",
+          "x": 50,
+          "y": 144,
+          "w": 24,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "ONLY",
+          "x": 50,
+          "y": 162,
+          "w": 32,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Account",
+          "x": 50,
+          "y": 180,
+          "w": 56,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Summary",
+          "x": 50,
+          "y": 198,
+          "w": 56,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Transaction",
+          "x": 50,
+          "y": 216,
+          "w": 88,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Details",
+          "x": 50,
+          "y": 234,
+          "w": 56,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Important",
+          "x": 50,
+          "y": 252,
+          "w": 72,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Notice:",
+          "x": 50,
+          "y": 270,
+          "w": 56,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "This",
+          "x": 50,
+          "y": 288,
+          "w": 32,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "document",
+          "x": 50,
+          "y": 306,
+          "w": 64,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "is",
+          "x": 50,
+          "y": 324,
+          "w": 16,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "a",
+          "x": 50,
+          "y": 342,
+          "w": 8,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "fictional",
+          "x": 50,
+          "y": 360,
+          "w": 72,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "sample",
+          "x": 50,
+          "y": 378,
+          "w": 48,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "created",
+          "x": 50,
+          "y": 396,
+          "w": 56,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "for",
+          "x": 50,
+          "y": 414,
+          "w": 24,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "formatting,",
+          "x": 50,
+          "y": 432,
+          "w": 88,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "learning,",
+          "x": 50,
+          "y": 450,
+          "w": 72,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "or",
+          "x": 50,
+          "y": 468,
+          "w": 16,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "demonstration",
+          "x": 50,
+          "y": 486,
+          "w": 104,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "purposes.",
+          "x": 50,
+          "y": 504,
+          "w": 72,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "It",
+          "x": 50,
+          "y": 522,
+          "w": 16,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "is",
+          "x": 50,
+          "y": 540,
+          "w": 16,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "not",
+          "x": 50,
+          "y": 558,
+          "w": 24,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "issued",
+          "x": 50,
+          "y": 576,
+          "w": 48,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "by",
+          "x": 50,
+          "y": 594,
+          "w": 16,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "a",
+          "x": 50,
+          "y": 612,
+          "w": 8,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "real",
+          "x": 50,
+          "y": 630,
+          "w": 32,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "bank",
+          "x": 50,
+          "y": 648,
+          "w": 32,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "and",
+          "x": 50,
+          "y": 666,
+          "w": 24,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "must",
+          "x": 50,
+          "y": 684,
+          "w": 32,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "not",
+          "x": 50,
+          "y": 702,
+          "w": 24,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "be",
+          "x": 50,
+          "y": 720,
+          "w": 16,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "used",
+          "x": 50,
+          "y": 738,
+          "w": 32,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "as",
+          "x": 50,
+          "y": 756,
+          "w": 16,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "proof",
+          "x": 50,
+          "y": 774,
+          "w": 40,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "of",
+          "x": 50,
+          "y": 792,
+          "w": 16,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "funds,",
+          "x": 50,
+          "y": 810,
+          "w": 48,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "identity,",
+          "x": 50,
+          "y": 828,
+          "w": 72,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "income,",
+          "x": 50,
+          "y": 846,
+          "w": 56,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "or",
+          "x": 50,
+          "y": 864,
+          "w": 16,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "financial",
+          "x": 50,
+          "y": 882,
+          "w": 72,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "activity.",
+          "x": 50,
+          "y": 900,
+          "w": 72,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Bank",
+          "x": 50,
+          "y": 918,
+          "w": 32,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "ABC",
+          "x": 50,
+          "y": 936,
+          "w": 24,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "National",
+          "x": 50,
+          "y": 954,
+          "w": 64,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Bank",
+          "x": 50,
+          "y": 972,
+          "w": 32,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "(Sample)",
+          "x": 50,
+          "y": 990,
+          "w": 64,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Account",
+          "x": 50,
+          "y": 1008,
+          "w": 56,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Holder",
+          "x": 50,
+          "y": 1026,
+          "w": 48,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Renu",
+          "x": 50,
+          "y": 1044,
+          "w": 32,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "P.",
+          "x": 50,
+          "y": 1062,
+          "w": 16,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "(Sample",
+          "x": 50,
+          "y": 1080,
+          "w": 56,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Customer)",
+          "x": 50,
+          "y": 1098,
+          "w": 72,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Account",
+          "x": 50,
+          "y": 1116,
+          "w": 56,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Number",
+          "x": 50,
+          "y": 1134,
+          "w": 48,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "XXXX",
+          "x": 50,
+          "y": 1152,
+          "w": 32,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "XXXX",
+          "x": 50,
+          "y": 1170,
+          "w": 32,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "4582",
+          "x": 50,
+          "y": 1188,
+          "w": 32,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Statement",
+          "x": 50,
+          "y": 1206,
+          "w": 72,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Period",
+          "x": 50,
+          "y": 1224,
+          "w": 48,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "01",
+          "x": 50,
+          "y": 1242,
+          "w": 16,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "August",
+          "x": 50,
+          "y": 1260,
+          "w": 48,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "2026",
+          "x": 50,
+          "y": 1278,
+          "w": 32,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "–",
+          "x": 50,
+          "y": 1296,
+          "w": 8,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "10",
+          "x": 50,
+          "y": 1314,
+          "w": 16,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "August",
+          "x": 50,
+          "y": 1332,
+          "w": 48,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "2026",
+          "x": 50,
+          "y": 1350,
+          "w": 32,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Opening",
+          "x": 50,
+          "y": 1368,
+          "w": 56,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Balance",
+          "x": 50,
+          "y": 1386,
+          "w": 56,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Total",
+          "x": 50,
+          "y": 1404,
+          "w": 40,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Credits",
+          "x": 50,
+          "y": 1422,
+          "w": 56,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Total",
+          "x": 50,
+          "y": 1440,
+          "w": 40,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Debits",
+          "x": 50,
+          "y": 1458,
+          "w": 48,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "₹25,000.00",
+          "x": 50,
+          "y": 1476,
+          "w": 80,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "₹18,500.00",
+          "x": 50,
+          "y": 1494,
+          "w": 80,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "₹9,750.00",
+          "x": 50,
+          "y": 1512,
+          "w": 72,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Closing",
+          "x": 50,
+          "y": 1530,
+          "w": 56,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Balance",
+          "x": 50,
+          "y": 1548,
+          "w": 56,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "₹33,750.00",
+          "x": 50,
+          "y": 1566,
+          "w": 80,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "₹33,750.00",
+          "x": 50,
+          "y": 1584,
+          "w": 80,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Date",
+          "x": 50,
+          "y": 1602,
+          "w": 32,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Description",
+          "x": 50,
+          "y": 1620,
+          "w": 88,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Type",
+          "x": 50,
+          "y": 1638,
+          "w": 32,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Amount",
+          "x": 50,
+          "y": 1656,
+          "w": 48,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Balance",
+          "x": 50,
+          "y": 1674,
+          "w": 56,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "01-Aug-2026",
+          "x": 50,
+          "y": 1692,
+          "w": 88,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Opening",
+          "x": 50,
+          "y": 1710,
+          "w": 56,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Balance",
+          "x": 50,
+          "y": 1728,
+          "w": 56,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "—",
+          "x": 50,
+          "y": 1746,
+          "w": 8,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "—",
+          "x": 50,
+          "y": 1764,
+          "w": 8,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "₹25,000.00",
+          "x": 50,
+          "y": 1782,
+          "w": 80,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "02-Aug-2026",
+          "x": 50,
+          "y": 1800,
+          "w": 88,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "UPI",
+          "x": 50,
+          "y": 1818,
+          "w": 24,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Credit",
+          "x": 50,
+          "y": 1836,
+          "w": 48,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "–",
+          "x": 50,
+          "y": 1854,
+          "w": 8,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Sample",
+          "x": 50,
+          "y": 1872,
+          "w": 48,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Salary",
+          "x": 50,
+          "y": 1890,
+          "w": 48,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Credit",
+          "x": 50,
+          "y": 1908,
+          "w": 48,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "₹15,000.00",
+          "x": 50,
+          "y": 1926,
+          "w": 80,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "₹40,000.00",
+          "x": 50,
+          "y": 1944,
+          "w": 80,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "03-Aug-2026",
+          "x": 50,
+          "y": 1962,
+          "w": 88,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "ATM",
+          "x": 50,
+          "y": 1980,
+          "w": 24,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Withdrawal",
+          "x": 50,
+          "y": 1998,
+          "w": 80,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "–",
+          "x": 50,
+          "y": 2016,
+          "w": 8,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Sample",
+          "x": 50,
+          "y": 2034,
+          "w": 48,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Debit",
+          "x": 50,
+          "y": 2052,
+          "w": 40,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "₹5,000.00",
+          "x": 50,
+          "y": 2070,
+          "w": 72,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "₹35,000.00",
+          "x": 50,
+          "y": 2088,
+          "w": 80,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "05-Aug-2026",
+          "x": 50,
+          "y": 2106,
+          "w": 88,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "UPI",
+          "x": 50,
+          "y": 2124,
+          "w": 24,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Payment",
+          "x": 50,
+          "y": 2142,
+          "w": 56,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "–",
+          "x": 50,
+          "y": 2160,
+          "w": 8,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Grocery",
+          "x": 50,
+          "y": 2178,
+          "w": 56,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Debit",
+          "x": 50,
+          "y": 2196,
+          "w": 40,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "₹2,250.00",
+          "x": 50,
+          "y": 2214,
+          "w": 72,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "₹32,750.00",
+          "x": 50,
+          "y": 2232,
+          "w": 80,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "07-Aug-2026",
+          "x": 50,
+          "y": 2250,
+          "w": 88,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "NEFT",
+          "x": 50,
+          "y": 2268,
+          "w": 32,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Credit",
+          "x": 50,
+          "y": 2286,
+          "w": 48,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "–",
+          "x": 50,
+          "y": 2304,
+          "w": 8,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Sample",
+          "x": 50,
+          "y": 2322,
+          "w": 48,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Credit",
+          "x": 50,
+          "y": 2340,
+          "w": 48,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "₹3,500.00",
+          "x": 50,
+          "y": 2358,
+          "w": 72,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "₹36,250.00",
+          "x": 50,
+          "y": 2376,
+          "w": 80,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "09-Aug-2026",
+          "x": 50,
+          "y": 2394,
+          "w": 88,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Online",
+          "x": 50,
+          "y": 2412,
+          "w": 48,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Payment",
+          "x": 50,
+          "y": 2430,
+          "w": 56,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "–",
+          "x": 50,
+          "y": 2448,
+          "w": 8,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Utilities",
+          "x": 50,
+          "y": 2466,
+          "w": 72,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Debit",
+          "x": 50,
+          "y": 2484,
+          "w": 40,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "₹2,500.00",
+          "x": 50,
+          "y": 2502,
+          "w": 72,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "₹33,750.00",
+          "x": 50,
+          "y": 2520,
+          "w": 80,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "10-Aug-2026",
+          "x": 50,
+          "y": 2538,
+          "w": 88,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Closing",
+          "x": 50,
+          "y": 2556,
+          "w": 56,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Balance",
+          "x": 50,
+          "y": 2574,
+          "w": 56,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "—",
+          "x": 50,
+          "y": 2592,
+          "w": 8,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "—",
+          "x": 50,
+          "y": 2610,
+          "w": 8,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "₹33,750.00",
+          "x": 50,
+          "y": 2628,
+          "w": 80,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        }
+      ]
+    }
+  ],
+  "extraction_method": "native_docx"
+}

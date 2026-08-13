@@ -1,0 +1,1337 @@
+{
+  "raw_text": "Komarappagari Thulasiram\nProfessional Summary\nInformation Technology undergraduate with a strong foundation in object-oriented programming,\nsoftware development, data structures, and algorithms. Skilled in Python, Java, C, MySQL, HTML5,\nCSS3, JavaScript, and learning React.js and Git. Seeking a Software Engineering Internship at\nMicrosoft.\nEducation\nB.Tech (IT), Sri Venkateswara College of Engineering (2024–2027), CGPA 8.0/10\nDiploma, Chadalawada Ramanamma Engineering College (2019–2024), 60.49%\nTechnical Skills\nPython, Java, C, JavaScript, HTML5, CSS3, React.js, Bootstrap, MySQL, Git, GitHub, VS Code\nOOP, Data Structures & Algorithms, DBMS, Problem Solving, Software Development\nProject - Student Record Management System (Python, MySQL)\n- Developed a CRUD-based application for managing student records.\n- Integrated MySQL for secure storage and retrieval.\n- Implemented Create, Read, Update and Delete operations using Python.\n- Applied OOP concepts and SQL queries for efficient data management.\nCertifications\nGenAI Workshop (NxtWave), TCS iON Communication Skills\nExtra-Curricular\nSave Oxygen Foundation: Contributed to planting 5,000+ trees.",
+  "confidence": 1.0,
+  "pages": [
+    {
+      "page_num": 1,
+      "text": "Komarappagari Thulasiram\nProfessional Summary\nInformation Technology undergraduate with a strong foundation in object-oriented programming,\nsoftware development, data structures, and algorithms. Skilled in Python, Java, C, MySQL, HTML5,\nCSS3, JavaScript, and learning React.js and Git. Seeking a Software Engineering Internship at\nMicrosoft.\nEducation\nB.Tech (IT), Sri Venkateswara College of Engineering (2024–2027), CGPA 8.0/10\nDiploma, Chadalawada Ramanamma Engineering College (2019–2024), 60.49%\nTechnical Skills\nPython, Java, C, JavaScript, HTML5, CSS3, React.js, Bootstrap, MySQL, Git, GitHub, VS Code\nOOP, Data Structures & Algorithms, DBMS, Problem Solving, Software Development\nProject - Student Record Management System (Python, MySQL)\n- Developed a CRUD-based application for managing student records.\n- Integrated MySQL for secure storage and retrieval.\n- Implemented Create, Read, Update and Delete operations using Python.\n- Applied OOP concepts and SQL queries for efficient data management.\nCertifications\nGenAI Workshop (NxtWave), TCS iON Communication Skills\nExtra-Curricular\nSave Oxygen Foundation: Contributed to planting 5,000+ trees.",
+      "confidence": 1.0,
+      "word_boxes": [
+        {
+          "word": "Komarappagari",
+          "x": 181,
+          "y": 76,
+          "w": 132,
+          "h": 24,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Thulasiram",
+          "x": 318,
+          "y": 76,
+          "w": 96,
+          "h": 24,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Professional",
+          "x": 78,
+          "y": 105,
+          "w": 60,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Summary",
+          "x": 140,
+          "y": 105,
+          "w": 45,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Information",
+          "x": 78,
+          "y": 117,
+          "w": 50,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Technology",
+          "x": 130,
+          "y": 117,
+          "w": 51,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "undergraduate",
+          "x": 185,
+          "y": 117,
+          "w": 65,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "with",
+          "x": 253,
+          "y": 117,
+          "w": 17,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "a",
+          "x": 273,
+          "y": 117,
+          "w": 5,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "strong",
+          "x": 281,
+          "y": 117,
+          "w": 27,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "foundation",
+          "x": 312,
+          "y": 117,
+          "w": 46,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "in",
+          "x": 362,
+          "y": 117,
+          "w": 7,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "object-oriented",
+          "x": 372,
+          "y": 117,
+          "w": 66,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "programming,",
+          "x": 441,
+          "y": 117,
+          "w": 61,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "software",
+          "x": 78,
+          "y": 129,
+          "w": 37,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "development,",
+          "x": 118,
+          "y": 129,
+          "w": 60,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "data",
+          "x": 181,
+          "y": 129,
+          "w": 19,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "structures,",
+          "x": 203,
+          "y": 129,
+          "w": 46,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "and",
+          "x": 252,
+          "y": 129,
+          "w": 16,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "algorithms.",
+          "x": 272,
+          "y": 129,
+          "w": 48,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Skilled",
+          "x": 324,
+          "y": 129,
+          "w": 29,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "in",
+          "x": 356,
+          "y": 129,
+          "w": 7,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Python,",
+          "x": 366,
+          "y": 129,
+          "w": 33,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Java,",
+          "x": 403,
+          "y": 129,
+          "w": 23,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "C,",
+          "x": 430,
+          "y": 129,
+          "w": 10,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "MySQL,",
+          "x": 442,
+          "y": 129,
+          "w": 36,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "HTML5,",
+          "x": 481,
+          "y": 129,
+          "w": 35,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "CSS3,",
+          "x": 78,
+          "y": 141,
+          "w": 28,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "JavaScript,",
+          "x": 109,
+          "y": 141,
+          "w": 49,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "and",
+          "x": 161,
+          "y": 141,
+          "w": 16,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "learning",
+          "x": 181,
+          "y": 141,
+          "w": 35,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "React.js",
+          "x": 219,
+          "y": 141,
+          "w": 36,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "and",
+          "x": 258,
+          "y": 141,
+          "w": 16,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Git.",
+          "x": 278,
+          "y": 141,
+          "w": 15,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Seeking",
+          "x": 296,
+          "y": 141,
+          "w": 36,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "a",
+          "x": 335,
+          "y": 141,
+          "w": 5,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Software",
+          "x": 343,
+          "y": 141,
+          "w": 39,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Engineering",
+          "x": 385,
+          "y": 141,
+          "w": 53,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Internship",
+          "x": 442,
+          "y": 141,
+          "w": 43,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "at",
+          "x": 488,
+          "y": 141,
+          "w": 8,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Microsoft.",
+          "x": 78,
+          "y": 153,
+          "w": 43,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Education",
+          "x": 78,
+          "y": 177,
+          "w": 48,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "B.Tech",
+          "x": 78,
+          "y": 189,
+          "w": 31,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "(IT),",
+          "x": 112,
+          "y": 189,
+          "w": 18,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Sri",
+          "x": 133,
+          "y": 189,
+          "w": 12,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Venkateswara",
+          "x": 148,
+          "y": 189,
+          "w": 63,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "College",
+          "x": 214,
+          "y": 189,
+          "w": 33,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "of",
+          "x": 251,
+          "y": 189,
+          "w": 8,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Engineering",
+          "x": 262,
+          "y": 189,
+          "w": 53,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "(2024–2027),",
+          "x": 318,
+          "y": 189,
+          "w": 59,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "CGPA",
+          "x": 380,
+          "y": 189,
+          "w": 28,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "8.0/10",
+          "x": 412,
+          "y": 189,
+          "w": 27,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Diploma,",
+          "x": 78,
+          "y": 201,
+          "w": 39,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Chadalawada",
+          "x": 120,
+          "y": 201,
+          "w": 61,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Ramanamma",
+          "x": 184,
+          "y": 201,
+          "w": 60,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Engineering",
+          "x": 246,
+          "y": 201,
+          "w": 53,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "College",
+          "x": 303,
+          "y": 201,
+          "w": 33,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "(2019–2024),",
+          "x": 339,
+          "y": 201,
+          "w": 59,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "60.49%",
+          "x": 402,
+          "y": 201,
+          "w": 33,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Technical",
+          "x": 78,
+          "y": 225,
+          "w": 46,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Skills",
+          "x": 126,
+          "y": 225,
+          "w": 26,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Python,",
+          "x": 78,
+          "y": 237,
+          "w": 33,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Java,",
+          "x": 114,
+          "y": 237,
+          "w": 23,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "C,",
+          "x": 141,
+          "y": 237,
+          "w": 10,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "JavaScript,",
+          "x": 154,
+          "y": 237,
+          "w": 49,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "HTML5,",
+          "x": 206,
+          "y": 237,
+          "w": 35,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "CSS3,",
+          "x": 244,
+          "y": 237,
+          "w": 28,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "React.js,",
+          "x": 276,
+          "y": 237,
+          "w": 38,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Bootstrap,",
+          "x": 318,
+          "y": 237,
+          "w": 45,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "MySQL,",
+          "x": 366,
+          "y": 237,
+          "w": 36,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Git,",
+          "x": 405,
+          "y": 237,
+          "w": 15,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "GitHub,",
+          "x": 423,
+          "y": 237,
+          "w": 33,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "VS",
+          "x": 460,
+          "y": 237,
+          "w": 13,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Code",
+          "x": 476,
+          "y": 237,
+          "w": 23,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "OOP,",
+          "x": 78,
+          "y": 249,
+          "w": 25,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Data",
+          "x": 105,
+          "y": 249,
+          "w": 21,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Structures",
+          "x": 129,
+          "y": 249,
+          "w": 45,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "&",
+          "x": 178,
+          "y": 249,
+          "w": 6,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Algorithms,",
+          "x": 187,
+          "y": 249,
+          "w": 50,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "DBMS,",
+          "x": 240,
+          "y": 249,
+          "w": 31,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Problem",
+          "x": 274,
+          "y": 249,
+          "w": 37,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Solving,",
+          "x": 314,
+          "y": 249,
+          "w": 35,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Software",
+          "x": 353,
+          "y": 249,
+          "w": 39,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Development",
+          "x": 395,
+          "y": 249,
+          "w": 58,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Project",
+          "x": 78,
+          "y": 273,
+          "w": 33,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "-",
+          "x": 114,
+          "y": 273,
+          "w": 3,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Student",
+          "x": 120,
+          "y": 273,
+          "w": 37,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Record",
+          "x": 160,
+          "y": 273,
+          "w": 34,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Management",
+          "x": 198,
+          "y": 273,
+          "w": 61,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "System",
+          "x": 261,
+          "y": 273,
+          "w": 35,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "(Python,",
+          "x": 300,
+          "y": 273,
+          "w": 40,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "MySQL)",
+          "x": 343,
+          "y": 273,
+          "w": 37,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "-",
+          "x": 78,
+          "y": 285,
+          "w": 3,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Developed",
+          "x": 84,
+          "y": 285,
+          "w": 47,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "a",
+          "x": 134,
+          "y": 285,
+          "w": 5,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "CRUD-based",
+          "x": 143,
+          "y": 285,
+          "w": 59,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "application",
+          "x": 205,
+          "y": 285,
+          "w": 47,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "for",
+          "x": 255,
+          "y": 285,
+          "w": 11,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "managing",
+          "x": 270,
+          "y": 285,
+          "w": 43,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "student",
+          "x": 316,
+          "y": 285,
+          "w": 32,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "records.",
+          "x": 352,
+          "y": 285,
+          "w": 36,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "-",
+          "x": 78,
+          "y": 297,
+          "w": 3,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Integrated",
+          "x": 84,
+          "y": 297,
+          "w": 45,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "MySQL",
+          "x": 131,
+          "y": 297,
+          "w": 33,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "for",
+          "x": 168,
+          "y": 297,
+          "w": 11,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "secure",
+          "x": 182,
+          "y": 297,
+          "w": 30,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "storage",
+          "x": 215,
+          "y": 297,
+          "w": 33,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "and",
+          "x": 251,
+          "y": 297,
+          "w": 16,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "retrieval.",
+          "x": 270,
+          "y": 297,
+          "w": 38,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "-",
+          "x": 78,
+          "y": 309,
+          "w": 3,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Implemented",
+          "x": 84,
+          "y": 309,
+          "w": 57,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Create,",
+          "x": 144,
+          "y": 309,
+          "w": 32,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Read,",
+          "x": 180,
+          "y": 309,
+          "w": 26,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Update",
+          "x": 209,
+          "y": 309,
+          "w": 32,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "and",
+          "x": 244,
+          "y": 309,
+          "w": 16,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Delete",
+          "x": 264,
+          "y": 309,
+          "w": 28,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "operations",
+          "x": 295,
+          "y": 309,
+          "w": 46,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "using",
+          "x": 345,
+          "y": 309,
+          "w": 23,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Python.",
+          "x": 372,
+          "y": 309,
+          "w": 33,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "-",
+          "x": 78,
+          "y": 321,
+          "w": 3,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Applied",
+          "x": 84,
+          "y": 321,
+          "w": 33,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "OOP",
+          "x": 120,
+          "y": 321,
+          "w": 22,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "concepts",
+          "x": 145,
+          "y": 321,
+          "w": 40,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "and",
+          "x": 188,
+          "y": 321,
+          "w": 16,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "SQL",
+          "x": 207,
+          "y": 321,
+          "w": 20,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "queries",
+          "x": 230,
+          "y": 321,
+          "w": 32,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "for",
+          "x": 265,
+          "y": 321,
+          "w": 11,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "efficient",
+          "x": 280,
+          "y": 321,
+          "w": 34,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "data",
+          "x": 317,
+          "y": 321,
+          "w": 19,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "management.",
+          "x": 339,
+          "y": 321,
+          "w": 61,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Certifications",
+          "x": 78,
+          "y": 345,
+          "w": 63,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "GenAI",
+          "x": 78,
+          "y": 357,
+          "w": 28,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Workshop",
+          "x": 109,
+          "y": 357,
+          "w": 45,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "(NxtWave),",
+          "x": 156,
+          "y": 357,
+          "w": 50,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "TCS",
+          "x": 209,
+          "y": 357,
+          "w": 20,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "iON",
+          "x": 232,
+          "y": 357,
+          "w": 17,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Communication",
+          "x": 252,
+          "y": 357,
+          "w": 69,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Skills",
+          "x": 324,
+          "y": 357,
+          "w": 23,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Extra-Curricular",
+          "x": 78,
+          "y": 381,
+          "w": 76,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Save",
+          "x": 78,
+          "y": 393,
+          "w": 22,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Oxygen",
+          "x": 103,
+          "y": 393,
+          "w": 34,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Foundation:",
+          "x": 140,
+          "y": 393,
+          "w": 52,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Contributed",
+          "x": 196,
+          "y": 393,
+          "w": 51,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "to",
+          "x": 250,
+          "y": 393,
+          "w": 8,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "planting",
+          "x": 261,
+          "y": 393,
+          "w": 35,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "5,000+",
+          "x": 299,
+          "y": 393,
+          "w": 30,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "trees.",
+          "x": 333,
+          "y": 393,
+          "w": 25,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        }
+      ]
+    }
+  ],
+  "extraction_method": "native_pdf"
+}

@@ -1,0 +1,13 @@
+{
+  "raw_text": "",
+  "confidence": 0.0,
+  "pages": [
+    {
+      "page_num": 1,
+      "text": "",
+      "confidence": 0.0,
+      "word_boxes": []
+    }
+  ],
+  "extraction_method": "tesseract"
+}

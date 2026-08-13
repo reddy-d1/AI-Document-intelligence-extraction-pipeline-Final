@@ -1,0 +1,13 @@
+{
+  "raw_text": "STORE RECEIPT\nMerchant: Metro Supermarket\nTransaction Date: 2026-08-11\nPayment Method: Visa Credit Card\nItem 1: Organic Milk  qty: 2  price: 4.50  total: 9.00\nItem 2: Whole Bread   qty: 1  price: 3.00  total: 3.00\nSubtotal: $12.00\nTax: $1.20\nTotal Amount Paid: $13.20",
+  "confidence": 0.85,
+  "pages": [
+    {
+      "page_num": 1,
+      "text": "STORE RECEIPT\nMerchant: Metro Supermarket\nTransaction Date: 2026-08-11\nPayment Method: Visa Credit Card\nItem 1: Organic Milk  qty: 2  price: 4.50  total: 9.00\nItem 2: Whole Bread   qty: 1  price: 3.00  total: 3.00\nSubtotal: $12.00\nTax: $1.20\nTotal Amount Paid: $13.20",
+      "confidence": 0.85,
+      "word_boxes": []
+    }
+  ],
+  "extraction_method": "tesseract"
+}

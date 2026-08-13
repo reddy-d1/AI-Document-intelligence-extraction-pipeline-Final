@@ -1,0 +1,185 @@
+{
+  "raw_text": "PURCHASE ORDER\nPO Number: PO-99881\nPO Date: 2026-08-01\nVendor: Tech Supplies Inc\nBuyer: Enterprise Ops LLC\nTotal Amount: $4,500.00",
+  "confidence": 1.0,
+  "pages": [
+    {
+      "page_num": 1,
+      "text": "PURCHASE ORDER\nPO Number: PO-99881\nPO Date: 2026-08-01\nVendor: Tech Supplies Inc\nBuyer: Enterprise Ops LLC\nTotal Amount: $4,500.00",
+      "confidence": 1.0,
+      "word_boxes": [
+        {
+          "word": "PURCHASE",
+          "x": 50,
+          "y": 56,
+          "w": 122,
+          "h": 30,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "ORDER",
+          "x": 178,
+          "y": 56,
+          "w": 79,
+          "h": 30,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "PO",
+          "x": 50,
+          "y": 108,
+          "w": 15,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Number:",
+          "x": 68,
+          "y": 108,
+          "w": 42,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "PO-99881",
+          "x": 114,
+          "y": 108,
+          "w": 50,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "PO",
+          "x": 50,
+          "y": 128,
+          "w": 15,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Date:",
+          "x": 68,
+          "y": 128,
+          "w": 26,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "2026-08-01",
+          "x": 98,
+          "y": 128,
+          "w": 56,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Vendor:",
+          "x": 50,
+          "y": 148,
+          "w": 38,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Tech",
+          "x": 91,
+          "y": 148,
+          "w": 24,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Supplies",
+          "x": 119,
+          "y": 148,
+          "w": 42,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Inc",
+          "x": 164,
+          "y": 148,
+          "w": 14,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Buyer:",
+          "x": 50,
+          "y": 168,
+          "w": 31,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Enterprise",
+          "x": 84,
+          "y": 168,
+          "w": 50,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Ops",
+          "x": 138,
+          "y": 168,
+          "w": 20,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "LLC",
+          "x": 161,
+          "y": 168,
+          "w": 20,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Total",
+          "x": 50,
+          "y": 188,
+          "w": 24,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Amount:",
+          "x": 77,
+          "y": 188,
+          "w": 40,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "$4,500.00",
+          "x": 121,
+          "y": 188,
+          "w": 48,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        }
+      ]
+    }
+  ],
+  "extraction_method": "native_pdf"
+}

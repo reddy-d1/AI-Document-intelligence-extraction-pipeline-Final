@@ -1,0 +1,183 @@
+{
+  "raw_text": "INVOICE #INV-2026-001\nVendor: Acme Global Inc.\nTotal Amount: $1,500.00\n\n--- Page Break ---\n\nINVOICE TERMS & CONDITIONS\nPayment due within 30 days.",
+  "confidence": 1.0,
+  "pages": [
+    {
+      "page_num": 1,
+      "text": "INVOICE #INV-2026-001\nVendor: Acme Global Inc.\nTotal Amount: $1,500.00",
+      "confidence": 1.0,
+      "word_boxes": [
+        {
+          "word": "INVOICE",
+          "x": 50,
+          "y": 78,
+          "w": 82,
+          "h": 27,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "#INV-2026-001",
+          "x": 137,
+          "y": 78,
+          "w": 135,
+          "h": 27,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Vendor:",
+          "x": 50,
+          "y": 127,
+          "w": 42,
+          "h": 16,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Acme",
+          "x": 95,
+          "y": 127,
+          "w": 30,
+          "h": 16,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Global",
+          "x": 129,
+          "y": 127,
+          "w": 34,
+          "h": 16,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Inc.",
+          "x": 167,
+          "y": 127,
+          "w": 19,
+          "h": 16,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Total",
+          "x": 50,
+          "y": 147,
+          "w": 26,
+          "h": 16,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Amount:",
+          "x": 80,
+          "y": 147,
+          "w": 44,
+          "h": 16,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "$1,500.00",
+          "x": 128,
+          "y": 147,
+          "w": 53,
+          "h": 16,
+          "confidence": 1.0,
+          "page_num": 1
+        }
+      ]
+    },
+    {
+      "page_num": 2,
+      "text": "INVOICE TERMS & CONDITIONS\nPayment due within 30 days.",
+      "confidence": 1.0,
+      "word_boxes": [
+        {
+          "word": "INVOICE",
+          "x": 50,
+          "y": 82,
+          "w": 65,
+          "h": 21,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "TERMS",
+          "x": 120,
+          "y": 82,
+          "w": 56,
+          "h": 21,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "&",
+          "x": 180,
+          "y": 82,
+          "w": 10,
+          "h": 21,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "CONDITIONS",
+          "x": 195,
+          "y": 82,
+          "w": 100,
+          "h": 21,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "Payment",
+          "x": 50,
+          "y": 117,
+          "w": 47,
+          "h": 16,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "due",
+          "x": 100,
+          "y": 117,
+          "w": 20,
+          "h": 16,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "within",
+          "x": 124,
+          "y": 117,
+          "w": 30,
+          "h": 16,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "30",
+          "x": 158,
+          "y": 117,
+          "w": 13,
+          "h": 16,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "days.",
+          "x": 174,
+          "y": 117,
+          "w": 28,
+          "h": 16,
+          "confidence": 1.0,
+          "page_num": 2
+        }
+      ]
+    }
+  ],
+  "extraction_method": "native_pdf"
+}

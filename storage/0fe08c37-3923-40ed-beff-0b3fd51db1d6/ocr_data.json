@@ -1,0 +1,392 @@
+{
+  "raw_text": "ACCOUNT STATEMENT\n\nBank Name: Zenith National Bank\n\nAccount Holder: Rahul Sharma\n\nAccount Number: ACC-99887766\n\nStatement Period: 01-Jul-2026 to 31-Jul-2026\n\nOpening Balance: $5,000.00\n\nClosing Balance: $7,500.00\n\n\n--- Table 1 ---\n| Date | Description | Type | Amount | Balance |\n| 05-Jul-2026 | Salary Credit | Credit | $3,500.00 | $8,500.00 |\n| 12-Jul-2026 | Rent Payment | Debit | $1,000.00 | $7,500.00 |",
+  "confidence": 1.0,
+  "pages": [
+    {
+      "page_num": 1,
+      "text": "ACCOUNT STATEMENT\n\nBank Name: Zenith National Bank\n\nAccount Holder: Rahul Sharma\n\nAccount Number: ACC-99887766\n\nStatement Period: 01-Jul-2026 to 31-Jul-2026\n\nOpening Balance: $5,000.00\n\nClosing Balance: $7,500.00\n\n\n--- Table 1 ---\n| Date | Description | Type | Amount | Balance |\n| 05-Jul-2026 | Salary Credit | Credit | $3,500.00 | $8,500.00 |\n| 12-Jul-2026 | Rent Payment | Debit | $1,000.00 | $7,500.00 |",
+      "confidence": 1.0,
+      "word_boxes": [
+        {
+          "word": "ACCOUNT",
+          "x": 50,
+          "y": 18,
+          "w": 56,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "STATEMENT",
+          "x": 50,
+          "y": 36,
+          "w": 72,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Bank",
+          "x": 50,
+          "y": 54,
+          "w": 32,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Name:",
+          "x": 50,
+          "y": 72,
+          "w": 40,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Zenith",
+          "x": 50,
+          "y": 90,
+          "w": 48,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "National",
+          "x": 50,
+          "y": 108,
+          "w": 64,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Bank",
+          "x": 50,
+          "y": 126,
+          "w": 32,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Account",
+          "x": 50,
+          "y": 144,
+          "w": 56,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Holder:",
+          "x": 50,
+          "y": 162,
+          "w": 56,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Rahul",
+          "x": 50,
+          "y": 180,
+          "w": 40,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Sharma",
+          "x": 50,
+          "y": 198,
+          "w": 48,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Account",
+          "x": 50,
+          "y": 216,
+          "w": 56,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Number:",
+          "x": 50,
+          "y": 234,
+          "w": 56,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "ACC-99887766",
+          "x": 50,
+          "y": 252,
+          "w": 96,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Statement",
+          "x": 50,
+          "y": 270,
+          "w": 72,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Period:",
+          "x": 50,
+          "y": 288,
+          "w": 56,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "01-Jul-2026",
+          "x": 50,
+          "y": 306,
+          "w": 88,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "to",
+          "x": 50,
+          "y": 324,
+          "w": 16,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "31-Jul-2026",
+          "x": 50,
+          "y": 342,
+          "w": 88,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Opening",
+          "x": 50,
+          "y": 360,
+          "w": 56,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Balance:",
+          "x": 50,
+          "y": 378,
+          "w": 64,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "$5,000.00",
+          "x": 50,
+          "y": 396,
+          "w": 72,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Closing",
+          "x": 50,
+          "y": 414,
+          "w": 56,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Balance:",
+          "x": 50,
+          "y": 432,
+          "w": 64,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "$7,500.00",
+          "x": 50,
+          "y": 450,
+          "w": 72,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Date",
+          "x": 50,
+          "y": 468,
+          "w": 32,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Description",
+          "x": 50,
+          "y": 486,
+          "w": 88,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Type",
+          "x": 50,
+          "y": 504,
+          "w": 32,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Amount",
+          "x": 50,
+          "y": 522,
+          "w": 48,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Balance",
+          "x": 50,
+          "y": 540,
+          "w": 56,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "05-Jul-2026",
+          "x": 50,
+          "y": 558,
+          "w": 88,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Salary",
+          "x": 50,
+          "y": 576,
+          "w": 48,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Credit",
+          "x": 50,
+          "y": 594,
+          "w": 48,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Credit",
+          "x": 50,
+          "y": 612,
+          "w": 48,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "$3,500.00",
+          "x": 50,
+          "y": 630,
+          "w": 72,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "$8,500.00",
+          "x": 50,
+          "y": 648,
+          "w": 72,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "12-Jul-2026",
+          "x": 50,
+          "y": 666,
+          "w": 88,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Rent",
+          "x": 50,
+          "y": 684,
+          "w": 32,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Payment",
+          "x": 50,
+          "y": 702,
+          "w": 56,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Debit",
+          "x": 50,
+          "y": 720,
+          "w": 40,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "$1,000.00",
+          "x": 50,
+          "y": 738,
+          "w": 72,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "$7,500.00",
+          "x": 50,
+          "y": 756,
+          "w": 72,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        }
+      ]
+    }
+  ],
+  "extraction_method": "native_docx"
+}

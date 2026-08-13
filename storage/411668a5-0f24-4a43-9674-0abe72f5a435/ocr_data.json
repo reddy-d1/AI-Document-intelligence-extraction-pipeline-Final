@@ -1,0 +1,5710 @@
+{
+  "raw_text": "PYTHON PROGRAMMING – IMPORTANT TOPICS & QUESTIONS \n \n  UNIT I – Basics of Python \n  Important Topics \n• \nHistory & Features of Python \n• \nTokens & Character Set \n• \nCore Data Types (int, float, str, bool) \n• \nInput/Output functions \n• \nType conversion \n• \nOperators (Arithmetic, Bitwise, Assignment) \n• \nOperator precedence \n• \nFormatting strings \n• \nBuilt-in functions \n  Important Questions \n2–5 Marks: \n1. Explain Python tokens. \n2. List Python core data types. \n3. Define operator precedence. \n4. What are compound assignment operators? \n5. Write a program to format numbers and strings. \n10–16 Marks: \n1. Explain Python operators with examples. \n2. Write a program using arithmetic and bitwise operators. \n3. Explain internal working of Python. \n4. Write simple programs using I/O and formatting. \n  Most Important Topics: \n✔ Operators & Expressions \n✔ Core Data Types \n✔ Built-in Functions \n \n  UNIT II – Control Statements & Functions\n\n--- Page Break ---\n\nImportant Topics \n• \nBoolean type & relational operators \n• \nDecision statements (if, if-else, nested if) \n• \nLoops (while, for) \n• \nbreak & continue \n• \nrange() function \n• \nFunctions \n• \nParameters & Arguments \n• \nScope (Local & Global) \n• \nRecursion \n• \nLambda functions \n  Important Questions \nShort Questions: \n1. Difference between while and for loop. \n2. What is recursion? \n3. Define lambda function. \n4. Explain scope of variables. \n5. What is range() function? \nLong Questions: \n1. Explain decision statements with example. \n2. Write a program using nested loops. \n3. Explain functions with parameters and return statement. \n4. Explain recursion with example program. \n    Very Important: \n✔ Functions & Recursion \n✔ Scope of Variables \n✔ Loop Control Statements \n \n  UNIT III – Strings, Lists, Tuples, Sets, Dictionaries \n  Important Topics \n• \nString operations\n\n--- Page Break ---\n\n• \nString immutability \n• \nList creation & slicing \n• \nList comprehensions \n• \nList methods \n• \nTuples \n• \nSets \n• \nDictionaries \n  Important Questions \nShort Questions: \n1. What is string immutability? \n2. Define list slicing. \n3. What are tuples? \n4. Difference between list and tuple. \n5. Define dictionary. \nLong Questions: \n1. Explain string operations with examples. \n2. Explain list methods and list comprehensions. \n3. Compare List, Tuple, Set, Dictionary. \n4. Write programs using dictionary and set operations. \n    Highly Important: \n✔ List & List Comprehension \n✔ String Operations \n✔ Difference between List, Tuple, Set, Dictionary \n \n  UNIT IV – Exception Handling, File Handling & Modules \n  Important Topics \n• \nTypes of Exceptions \n• \ntry, except, finally \n• \nFile Handling (read, write, append) \n• \nseek() function \n• \nBinary files\n\n--- Page Break ---\n\n• \nModules & Packages \n• \nImporting modules \n  Important Questions \nShort Questions: \n1. What is exception handling? \n2. Define seek() function. \n3. What is a module? \n4. Difference between text and binary file. \nLong Questions: \n1. Explain Python exception handling with example. \n2. Explain file handling operations. \n3. Explain modules and packages in Python. \n  Most Important: \n✔ Exception Handling \n✔ File Handling \n✔ Modules & Packages \n \n  UNIT V – Object Oriented Programming & Turtle \n  Important Topics \n• \nClass & Object \n• \nConstructor (init) \n• \nDestructor (del) \n• \nInstance & Class variables \n• \nMethod overloading \n• \nOperator overloading \n• \nInheritance \n• \nEncapsulation \n• \nTurtle module \n  Important Questions \nShort Questions: \n1. Define class and object.\n\n--- Page Break ---\n\n2. What is constructor? \n3. What is inheritance? \n4. Define encapsulation. \n5. What is turtle module? \nLong Questions: \n1. Explain OOP concepts in Python. \n2. Write a program using class and constructor. \n3. Explain inheritance with example. \n4. Explain operator overloading. \n5. Write a simple turtle graphics program. \n    Very Important: \n✔ OOP Concepts \n✔ Constructor & Inheritance \n✔ Turtle Graphics Program \n \n  HIGH PRIORITY TOPICS (Study First) \nIf exam is near, focus on: \n1. Functions & Recursion \n2. Lists & List Comprehension \n3. File Handling \n4. Exception Handling \n5. OOP Concepts \n6. Inheritance \n7. Decision & Loop Statements \n \n  Unit Weightage Suggestion \nUnit \nDifficulty Exam Weight \nUnit I Easy \nMedium \nUnit II Moderate High \nUnit III Moderate High\n\n--- Page Break ---\n\nUnit \nDifficulty Exam Weight \nUnit IV Moderate Medium \nUnit V Moderate High",
+  "confidence": 1.0,
+  "pages": [
+    {
+      "page_num": 1,
+      "text": "PYTHON PROGRAMMING – IMPORTANT TOPICS & QUESTIONS \n \n  UNIT I – Basics of Python \n  Important Topics \n• \nHistory & Features of Python \n• \nTokens & Character Set \n• \nCore Data Types (int, float, str, bool) \n• \nInput/Output functions \n• \nType conversion \n• \nOperators (Arithmetic, Bitwise, Assignment) \n• \nOperator precedence \n• \nFormatting strings \n• \nBuilt-in functions \n  Important Questions \n2–5 Marks: \n1. Explain Python tokens. \n2. List Python core data types. \n3. Define operator precedence. \n4. What are compound assignment operators? \n5. Write a program to format numbers and strings. \n10–16 Marks: \n1. Explain Python operators with examples. \n2. Write a program using arithmetic and bitwise operators. \n3. Explain internal working of Python. \n4. Write simple programs using I/O and formatting. \n  Most Important Topics: \n✔ Operators & Expressions \n✔ Core Data Types \n✔ Built-in Functions \n \n  UNIT II – Control Statements & Functions",
+      "confidence": 1.0,
+      "word_boxes": [
+        {
+          "word": "PYTHON",
+          "x": 89,
+          "y": 73,
+          "w": 42,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "PROGRAMMING",
+          "x": 134,
+          "y": 73,
+          "w": 80,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "–",
+          "x": 216,
+          "y": 73,
+          "w": 5,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "IMPORTANT",
+          "x": 224,
+          "y": 73,
+          "w": 59,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "TOPICS",
+          "x": 285,
+          "y": 73,
+          "w": 37,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "&",
+          "x": 325,
+          "y": 73,
+          "w": 7,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "QUESTIONS",
+          "x": 334,
+          "y": 73,
+          "w": 60,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "UNIT",
+          "x": 89,
+          "y": 120,
+          "w": 24,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "I",
+          "x": 116,
+          "y": 120,
+          "w": 3,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "–",
+          "x": 121,
+          "y": 120,
+          "w": 5,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Basics",
+          "x": 128,
+          "y": 120,
+          "w": 33,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "of",
+          "x": 164,
+          "y": 120,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Python",
+          "x": 176,
+          "y": 120,
+          "w": 35,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Important",
+          "x": 89,
+          "y": 144,
+          "w": 50,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Topics",
+          "x": 141,
+          "y": 144,
+          "w": 32,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "•",
+          "x": 90,
+          "y": 167,
+          "w": 4,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "History",
+          "x": 108,
+          "y": 166,
+          "w": 34,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "&",
+          "x": 144,
+          "y": 166,
+          "w": 7,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Features",
+          "x": 153,
+          "y": 166,
+          "w": 41,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "of",
+          "x": 197,
+          "y": 166,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Python",
+          "x": 209,
+          "y": 166,
+          "w": 33,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "•",
+          "x": 90,
+          "y": 189,
+          "w": 4,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Tokens",
+          "x": 108,
+          "y": 189,
+          "w": 32,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "&",
+          "x": 143,
+          "y": 189,
+          "w": 7,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Character",
+          "x": 152,
+          "y": 189,
+          "w": 47,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Set",
+          "x": 202,
+          "y": 189,
+          "w": 15,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "•",
+          "x": 90,
+          "y": 212,
+          "w": 4,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Core",
+          "x": 108,
+          "y": 211,
+          "w": 23,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Data",
+          "x": 133,
+          "y": 211,
+          "w": 22,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Types",
+          "x": 158,
+          "y": 211,
+          "w": 27,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "(int,",
+          "x": 187,
+          "y": 211,
+          "w": 18,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "float,",
+          "x": 208,
+          "y": 211,
+          "w": 24,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "str,",
+          "x": 235,
+          "y": 211,
+          "w": 14,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "bool)",
+          "x": 252,
+          "y": 211,
+          "w": 24,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "•",
+          "x": 90,
+          "y": 234,
+          "w": 4,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Input/Output",
+          "x": 108,
+          "y": 234,
+          "w": 61,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "functions",
+          "x": 172,
+          "y": 234,
+          "w": 44,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "•",
+          "x": 90,
+          "y": 257,
+          "w": 4,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Type",
+          "x": 108,
+          "y": 256,
+          "w": 22,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "conversion",
+          "x": 132,
+          "y": 256,
+          "w": 52,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "•",
+          "x": 90,
+          "y": 279,
+          "w": 4,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Operators",
+          "x": 108,
+          "y": 279,
+          "w": 47,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "(Arithmetic,",
+          "x": 157,
+          "y": 279,
+          "w": 55,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Bitwise,",
+          "x": 215,
+          "y": 279,
+          "w": 37,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Assignment)",
+          "x": 255,
+          "y": 279,
+          "w": 59,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "•",
+          "x": 90,
+          "y": 302,
+          "w": 4,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Operator",
+          "x": 108,
+          "y": 301,
+          "w": 42,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "precedence",
+          "x": 152,
+          "y": 301,
+          "w": 56,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "•",
+          "x": 90,
+          "y": 324,
+          "w": 4,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Formatting",
+          "x": 108,
+          "y": 324,
+          "w": 51,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "strings",
+          "x": 161,
+          "y": 324,
+          "w": 31,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "•",
+          "x": 90,
+          "y": 347,
+          "w": 4,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Built-in",
+          "x": 108,
+          "y": 346,
+          "w": 34,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "functions",
+          "x": 144,
+          "y": 346,
+          "w": 44,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Important",
+          "x": 89,
+          "y": 370,
+          "w": 50,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Questions",
+          "x": 141,
+          "y": 370,
+          "w": 51,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "2–5",
+          "x": 72,
+          "y": 393,
+          "w": 16,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Marks:",
+          "x": 91,
+          "y": 393,
+          "w": 33,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "1.",
+          "x": 90,
+          "y": 415,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Explain",
+          "x": 108,
+          "y": 415,
+          "w": 34,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Python",
+          "x": 144,
+          "y": 415,
+          "w": 33,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "tokens.",
+          "x": 180,
+          "y": 415,
+          "w": 34,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "2.",
+          "x": 90,
+          "y": 438,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "List",
+          "x": 108,
+          "y": 438,
+          "w": 17,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Python",
+          "x": 127,
+          "y": 438,
+          "w": 33,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "core",
+          "x": 162,
+          "y": 438,
+          "w": 21,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "data",
+          "x": 185,
+          "y": 438,
+          "w": 21,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "types.",
+          "x": 209,
+          "y": 438,
+          "w": 28,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "3.",
+          "x": 90,
+          "y": 460,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Define",
+          "x": 108,
+          "y": 460,
+          "w": 31,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "operator",
+          "x": 141,
+          "y": 460,
+          "w": 40,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "precedence.",
+          "x": 184,
+          "y": 460,
+          "w": 59,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "4.",
+          "x": 90,
+          "y": 483,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "What",
+          "x": 108,
+          "y": 483,
+          "w": 25,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "are",
+          "x": 135,
+          "y": 483,
+          "w": 15,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "compound",
+          "x": 152,
+          "y": 483,
+          "w": 51,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "assignment",
+          "x": 206,
+          "y": 483,
+          "w": 55,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "operators?",
+          "x": 264,
+          "y": 483,
+          "w": 50,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "5.",
+          "x": 90,
+          "y": 505,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Write",
+          "x": 108,
+          "y": 505,
+          "w": 25,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "a",
+          "x": 135,
+          "y": 505,
+          "w": 5,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "program",
+          "x": 143,
+          "y": 505,
+          "w": 39,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "to",
+          "x": 185,
+          "y": 505,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "format",
+          "x": 197,
+          "y": 505,
+          "w": 31,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "numbers",
+          "x": 231,
+          "y": 505,
+          "w": 42,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "and",
+          "x": 275,
+          "y": 505,
+          "w": 18,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "strings.",
+          "x": 296,
+          "y": 505,
+          "w": 34,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "10–16",
+          "x": 72,
+          "y": 528,
+          "w": 27,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Marks:",
+          "x": 102,
+          "y": 528,
+          "w": 33,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "1.",
+          "x": 90,
+          "y": 550,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Explain",
+          "x": 108,
+          "y": 550,
+          "w": 34,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Python",
+          "x": 144,
+          "y": 550,
+          "w": 33,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "operators",
+          "x": 180,
+          "y": 550,
+          "w": 45,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "with",
+          "x": 228,
+          "y": 550,
+          "w": 20,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "examples.",
+          "x": 250,
+          "y": 550,
+          "w": 48,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "2.",
+          "x": 90,
+          "y": 573,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Write",
+          "x": 108,
+          "y": 573,
+          "w": 25,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "a",
+          "x": 135,
+          "y": 573,
+          "w": 5,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "program",
+          "x": 143,
+          "y": 573,
+          "w": 39,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "using",
+          "x": 185,
+          "y": 573,
+          "w": 25,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "arithmetic",
+          "x": 213,
+          "y": 573,
+          "w": 48,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "and",
+          "x": 264,
+          "y": 573,
+          "w": 18,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "bitwise",
+          "x": 284,
+          "y": 573,
+          "w": 33,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "operators.",
+          "x": 320,
+          "y": 573,
+          "w": 48,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "3.",
+          "x": 90,
+          "y": 595,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Explain",
+          "x": 108,
+          "y": 595,
+          "w": 34,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "internal",
+          "x": 144,
+          "y": 595,
+          "w": 36,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "working",
+          "x": 183,
+          "y": 595,
+          "w": 36,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "of",
+          "x": 222,
+          "y": 595,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Python.",
+          "x": 234,
+          "y": 595,
+          "w": 36,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "4.",
+          "x": 90,
+          "y": 618,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Write",
+          "x": 108,
+          "y": 618,
+          "w": 25,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "simple",
+          "x": 135,
+          "y": 618,
+          "w": 32,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "programs",
+          "x": 170,
+          "y": 618,
+          "w": 45,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "using",
+          "x": 217,
+          "y": 618,
+          "w": 25,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "I/O",
+          "x": 244,
+          "y": 618,
+          "w": 14,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "and",
+          "x": 261,
+          "y": 618,
+          "w": 18,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "formatting.",
+          "x": 282,
+          "y": 618,
+          "w": 52,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Most",
+          "x": 89,
+          "y": 642,
+          "w": 24,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Important",
+          "x": 116,
+          "y": 642,
+          "w": 50,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Topics:",
+          "x": 168,
+          "y": 642,
+          "w": 35,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "✔",
+          "x": 72,
+          "y": 657,
+          "w": 8,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Operators",
+          "x": 83,
+          "y": 658,
+          "w": 47,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "&",
+          "x": 132,
+          "y": 658,
+          "w": 7,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Expressions",
+          "x": 142,
+          "y": 658,
+          "w": 56,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "✔",
+          "x": 72,
+          "y": 673,
+          "w": 8,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Core",
+          "x": 83,
+          "y": 674,
+          "w": 22,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Data",
+          "x": 108,
+          "y": 674,
+          "w": 22,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Types",
+          "x": 133,
+          "y": 674,
+          "w": 27,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "✔",
+          "x": 72,
+          "y": 689,
+          "w": 8,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Built-in",
+          "x": 83,
+          "y": 690,
+          "w": 34,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Functions",
+          "x": 119,
+          "y": 690,
+          "w": 47,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "UNIT",
+          "x": 89,
+          "y": 737,
+          "w": 24,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "II",
+          "x": 116,
+          "y": 737,
+          "w": 6,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "–",
+          "x": 124,
+          "y": 737,
+          "w": 5,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Control",
+          "x": 132,
+          "y": 737,
+          "w": 37,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Statements",
+          "x": 172,
+          "y": 737,
+          "w": 58,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "&",
+          "x": 232,
+          "y": 737,
+          "w": 7,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Functions",
+          "x": 242,
+          "y": 737,
+          "w": 49,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        }
+      ]
+    },
+    {
+      "page_num": 2,
+      "text": "Important Topics \n• \nBoolean type & relational operators \n• \nDecision statements (if, if-else, nested if) \n• \nLoops (while, for) \n• \nbreak & continue \n• \nrange() function \n• \nFunctions \n• \nParameters & Arguments \n• \nScope (Local & Global) \n• \nRecursion \n• \nLambda functions \n  Important Questions \nShort Questions: \n1. Difference between while and for loop. \n2. What is recursion? \n3. Define lambda function. \n4. Explain scope of variables. \n5. What is range() function? \nLong Questions: \n1. Explain decision statements with example. \n2. Write a program using nested loops. \n3. Explain functions with parameters and return statement. \n4. Explain recursion with example program. \n    Very Important: \n✔ Functions & Recursion \n✔ Scope of Variables \n✔ Loop Control Statements \n \n  UNIT III – Strings, Lists, Tuples, Sets, Dictionaries \n  Important Topics \n• \nString operations",
+      "confidence": 1.0,
+      "word_boxes": [
+        {
+          "word": "Important",
+          "x": 89,
+          "y": 73,
+          "w": 50,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "Topics",
+          "x": 141,
+          "y": 73,
+          "w": 32,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "•",
+          "x": 90,
+          "y": 96,
+          "w": 4,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "Boolean",
+          "x": 108,
+          "y": 96,
+          "w": 39,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "type",
+          "x": 149,
+          "y": 96,
+          "w": 20,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "&",
+          "x": 172,
+          "y": 96,
+          "w": 7,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "relational",
+          "x": 181,
+          "y": 96,
+          "w": 44,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "operators",
+          "x": 228,
+          "y": 96,
+          "w": 45,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "•",
+          "x": 90,
+          "y": 118,
+          "w": 4,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "Decision",
+          "x": 108,
+          "y": 118,
+          "w": 41,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "statements",
+          "x": 152,
+          "y": 118,
+          "w": 53,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "(if,",
+          "x": 208,
+          "y": 118,
+          "w": 11,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "if-else,",
+          "x": 222,
+          "y": 118,
+          "w": 32,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "nested",
+          "x": 257,
+          "y": 118,
+          "w": 32,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "if)",
+          "x": 291,
+          "y": 118,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "•",
+          "x": 90,
+          "y": 141,
+          "w": 4,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "Loops",
+          "x": 108,
+          "y": 141,
+          "w": 29,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "(while,",
+          "x": 139,
+          "y": 141,
+          "w": 31,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "for)",
+          "x": 172,
+          "y": 141,
+          "w": 16,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "•",
+          "x": 90,
+          "y": 163,
+          "w": 4,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "break",
+          "x": 108,
+          "y": 163,
+          "w": 26,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "&",
+          "x": 137,
+          "y": 163,
+          "w": 7,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "continue",
+          "x": 146,
+          "y": 163,
+          "w": 42,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "•",
+          "x": 90,
+          "y": 186,
+          "w": 4,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "range()",
+          "x": 108,
+          "y": 186,
+          "w": 32,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "function",
+          "x": 143,
+          "y": 186,
+          "w": 39,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "•",
+          "x": 90,
+          "y": 208,
+          "w": 4,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "Functions",
+          "x": 108,
+          "y": 208,
+          "w": 47,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "•",
+          "x": 90,
+          "y": 231,
+          "w": 4,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "Parameters",
+          "x": 108,
+          "y": 231,
+          "w": 54,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "&",
+          "x": 164,
+          "y": 231,
+          "w": 7,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "Arguments",
+          "x": 173,
+          "y": 231,
+          "w": 51,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "•",
+          "x": 90,
+          "y": 253,
+          "w": 4,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "Scope",
+          "x": 108,
+          "y": 253,
+          "w": 30,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "(Local",
+          "x": 140,
+          "y": 253,
+          "w": 29,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "&",
+          "x": 171,
+          "y": 253,
+          "w": 7,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "Global)",
+          "x": 181,
+          "y": 253,
+          "w": 34,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "•",
+          "x": 90,
+          "y": 276,
+          "w": 4,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "Recursion",
+          "x": 108,
+          "y": 276,
+          "w": 48,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "•",
+          "x": 90,
+          "y": 298,
+          "w": 4,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "Lambda",
+          "x": 108,
+          "y": 298,
+          "w": 39,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "functions",
+          "x": 149,
+          "y": 298,
+          "w": 44,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "Important",
+          "x": 89,
+          "y": 322,
+          "w": 50,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "Questions",
+          "x": 141,
+          "y": 322,
+          "w": 51,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "Short",
+          "x": 72,
+          "y": 345,
+          "w": 27,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "Questions:",
+          "x": 101,
+          "y": 345,
+          "w": 54,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "1.",
+          "x": 90,
+          "y": 367,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "Difference",
+          "x": 108,
+          "y": 367,
+          "w": 49,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "between",
+          "x": 159,
+          "y": 367,
+          "w": 40,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "while",
+          "x": 203,
+          "y": 367,
+          "w": 25,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "and",
+          "x": 230,
+          "y": 367,
+          "w": 18,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "for",
+          "x": 250,
+          "y": 367,
+          "w": 12,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "loop.",
+          "x": 265,
+          "y": 367,
+          "w": 24,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "2.",
+          "x": 90,
+          "y": 390,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "What",
+          "x": 108,
+          "y": 390,
+          "w": 25,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "is",
+          "x": 135,
+          "y": 390,
+          "w": 8,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "recursion?",
+          "x": 145,
+          "y": 390,
+          "w": 50,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "3.",
+          "x": 90,
+          "y": 412,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "Define",
+          "x": 108,
+          "y": 412,
+          "w": 31,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "lambda",
+          "x": 141,
+          "y": 412,
+          "w": 36,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "function.",
+          "x": 179,
+          "y": 412,
+          "w": 42,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "4.",
+          "x": 90,
+          "y": 435,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "Explain",
+          "x": 108,
+          "y": 435,
+          "w": 34,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "scope",
+          "x": 144,
+          "y": 435,
+          "w": 29,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "of",
+          "x": 176,
+          "y": 435,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "variables.",
+          "x": 187,
+          "y": 435,
+          "w": 45,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "5.",
+          "x": 90,
+          "y": 457,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "What",
+          "x": 108,
+          "y": 457,
+          "w": 25,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "is",
+          "x": 135,
+          "y": 457,
+          "w": 8,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "range()",
+          "x": 145,
+          "y": 457,
+          "w": 32,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "function?",
+          "x": 180,
+          "y": 457,
+          "w": 44,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "Long",
+          "x": 72,
+          "y": 480,
+          "w": 24,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "Questions:",
+          "x": 98,
+          "y": 480,
+          "w": 54,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "1.",
+          "x": 90,
+          "y": 502,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "Explain",
+          "x": 108,
+          "y": 502,
+          "w": 34,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "decision",
+          "x": 144,
+          "y": 502,
+          "w": 40,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "statements",
+          "x": 187,
+          "y": 502,
+          "w": 53,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "with",
+          "x": 243,
+          "y": 502,
+          "w": 20,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "example.",
+          "x": 266,
+          "y": 502,
+          "w": 43,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "2.",
+          "x": 90,
+          "y": 525,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "Write",
+          "x": 108,
+          "y": 525,
+          "w": 25,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "a",
+          "x": 135,
+          "y": 525,
+          "w": 5,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "program",
+          "x": 143,
+          "y": 525,
+          "w": 39,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "using",
+          "x": 185,
+          "y": 525,
+          "w": 25,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "nested",
+          "x": 213,
+          "y": 525,
+          "w": 32,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "loops.",
+          "x": 248,
+          "y": 525,
+          "w": 29,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "3.",
+          "x": 90,
+          "y": 547,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "Explain",
+          "x": 108,
+          "y": 547,
+          "w": 34,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "functions",
+          "x": 144,
+          "y": 547,
+          "w": 44,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "with",
+          "x": 192,
+          "y": 547,
+          "w": 20,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "parameters",
+          "x": 214,
+          "y": 547,
+          "w": 54,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "and",
+          "x": 271,
+          "y": 547,
+          "w": 18,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "return",
+          "x": 291,
+          "y": 547,
+          "w": 28,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "statement.",
+          "x": 322,
+          "y": 547,
+          "w": 51,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "4.",
+          "x": 90,
+          "y": 570,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "Explain",
+          "x": 108,
+          "y": 570,
+          "w": 34,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "recursion",
+          "x": 144,
+          "y": 570,
+          "w": 44,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "with",
+          "x": 191,
+          "y": 570,
+          "w": 20,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "example",
+          "x": 214,
+          "y": 570,
+          "w": 40,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "program.",
+          "x": 257,
+          "y": 570,
+          "w": 42,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "Very",
+          "x": 106,
+          "y": 594,
+          "w": 22,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "Important:",
+          "x": 131,
+          "y": 594,
+          "w": 53,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "✔",
+          "x": 72,
+          "y": 608,
+          "w": 8,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "Functions",
+          "x": 83,
+          "y": 610,
+          "w": 47,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "&",
+          "x": 132,
+          "y": 610,
+          "w": 7,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "Recursion",
+          "x": 141,
+          "y": 610,
+          "w": 48,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "✔",
+          "x": 72,
+          "y": 624,
+          "w": 8,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "Scope",
+          "x": 83,
+          "y": 626,
+          "w": 30,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "of",
+          "x": 115,
+          "y": 626,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "Variables",
+          "x": 127,
+          "y": 626,
+          "w": 43,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "✔",
+          "x": 72,
+          "y": 640,
+          "w": 8,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "Loop",
+          "x": 83,
+          "y": 642,
+          "w": 23,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "Control",
+          "x": 109,
+          "y": 642,
+          "w": 35,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "Statements",
+          "x": 147,
+          "y": 642,
+          "w": 54,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "UNIT",
+          "x": 89,
+          "y": 689,
+          "w": 24,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "III",
+          "x": 116,
+          "y": 689,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "–",
+          "x": 128,
+          "y": 689,
+          "w": 5,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "Strings,",
+          "x": 135,
+          "y": 689,
+          "w": 38,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "Lists,",
+          "x": 175,
+          "y": 689,
+          "w": 26,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "Tuples,",
+          "x": 204,
+          "y": 689,
+          "w": 36,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "Sets,",
+          "x": 243,
+          "y": 689,
+          "w": 25,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "Dictionaries",
+          "x": 271,
+          "y": 689,
+          "w": 61,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "Important",
+          "x": 89,
+          "y": 713,
+          "w": 50,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "Topics",
+          "x": 141,
+          "y": 713,
+          "w": 32,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "•",
+          "x": 90,
+          "y": 736,
+          "w": 4,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "String",
+          "x": 108,
+          "y": 735,
+          "w": 27,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "operations",
+          "x": 137,
+          "y": 735,
+          "w": 50,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 2
+        }
+      ]
+    },
+    {
+      "page_num": 3,
+      "text": "• \nString immutability \n• \nList creation & slicing \n• \nList comprehensions \n• \nList methods \n• \nTuples \n• \nSets \n• \nDictionaries \n  Important Questions \nShort Questions: \n1. What is string immutability? \n2. Define list slicing. \n3. What are tuples? \n4. Difference between list and tuple. \n5. Define dictionary. \nLong Questions: \n1. Explain string operations with examples. \n2. Explain list methods and list comprehensions. \n3. Compare List, Tuple, Set, Dictionary. \n4. Write programs using dictionary and set operations. \n    Highly Important: \n✔ List & List Comprehension \n✔ String Operations \n✔ Difference between List, Tuple, Set, Dictionary \n \n  UNIT IV – Exception Handling, File Handling & Modules \n  Important Topics \n• \nTypes of Exceptions \n• \ntry, except, finally \n• \nFile Handling (read, write, append) \n• \nseek() function \n• \nBinary files",
+      "confidence": 1.0,
+      "word_boxes": [
+        {
+          "word": "•",
+          "x": 90,
+          "y": 72,
+          "w": 4,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "String",
+          "x": 108,
+          "y": 71,
+          "w": 27,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "immutability",
+          "x": 137,
+          "y": 71,
+          "w": 59,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "•",
+          "x": 90,
+          "y": 94,
+          "w": 4,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "List",
+          "x": 108,
+          "y": 94,
+          "w": 17,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "creation",
+          "x": 127,
+          "y": 94,
+          "w": 39,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "&",
+          "x": 168,
+          "y": 94,
+          "w": 7,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "slicing",
+          "x": 177,
+          "y": 94,
+          "w": 30,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "•",
+          "x": 90,
+          "y": 117,
+          "w": 4,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "List",
+          "x": 108,
+          "y": 116,
+          "w": 17,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "comprehensions",
+          "x": 127,
+          "y": 116,
+          "w": 79,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "•",
+          "x": 90,
+          "y": 139,
+          "w": 4,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "List",
+          "x": 108,
+          "y": 139,
+          "w": 17,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "methods",
+          "x": 127,
+          "y": 139,
+          "w": 42,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "•",
+          "x": 90,
+          "y": 162,
+          "w": 4,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "Tuples",
+          "x": 108,
+          "y": 161,
+          "w": 31,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "•",
+          "x": 90,
+          "y": 184,
+          "w": 4,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "Sets",
+          "x": 108,
+          "y": 184,
+          "w": 20,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "•",
+          "x": 90,
+          "y": 207,
+          "w": 4,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "Dictionaries",
+          "x": 108,
+          "y": 206,
+          "w": 57,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "Important",
+          "x": 89,
+          "y": 230,
+          "w": 50,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "Questions",
+          "x": 141,
+          "y": 230,
+          "w": 51,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "Short",
+          "x": 72,
+          "y": 253,
+          "w": 27,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "Questions:",
+          "x": 101,
+          "y": 253,
+          "w": 54,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "1.",
+          "x": 90,
+          "y": 276,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "What",
+          "x": 108,
+          "y": 276,
+          "w": 25,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "is",
+          "x": 135,
+          "y": 276,
+          "w": 8,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "string",
+          "x": 145,
+          "y": 276,
+          "w": 26,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "immutability?",
+          "x": 174,
+          "y": 276,
+          "w": 65,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "2.",
+          "x": 90,
+          "y": 298,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "Define",
+          "x": 108,
+          "y": 298,
+          "w": 31,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "list",
+          "x": 141,
+          "y": 298,
+          "w": 14,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "slicing.",
+          "x": 158,
+          "y": 298,
+          "w": 33,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "3.",
+          "x": 90,
+          "y": 321,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "What",
+          "x": 108,
+          "y": 321,
+          "w": 25,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "are",
+          "x": 135,
+          "y": 321,
+          "w": 15,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "tuples?",
+          "x": 152,
+          "y": 321,
+          "w": 35,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "4.",
+          "x": 90,
+          "y": 343,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "Difference",
+          "x": 108,
+          "y": 343,
+          "w": 49,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "between",
+          "x": 159,
+          "y": 343,
+          "w": 40,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "list",
+          "x": 203,
+          "y": 343,
+          "w": 14,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "and",
+          "x": 219,
+          "y": 343,
+          "w": 18,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "tuple.",
+          "x": 239,
+          "y": 343,
+          "w": 27,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "5.",
+          "x": 90,
+          "y": 366,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "Define",
+          "x": 108,
+          "y": 366,
+          "w": 31,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "dictionary.",
+          "x": 141,
+          "y": 366,
+          "w": 49,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "Long",
+          "x": 72,
+          "y": 388,
+          "w": 24,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "Questions:",
+          "x": 98,
+          "y": 388,
+          "w": 54,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "1.",
+          "x": 90,
+          "y": 411,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "Explain",
+          "x": 108,
+          "y": 411,
+          "w": 34,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "string",
+          "x": 144,
+          "y": 411,
+          "w": 26,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "operations",
+          "x": 173,
+          "y": 411,
+          "w": 50,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "with",
+          "x": 226,
+          "y": 411,
+          "w": 20,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "examples.",
+          "x": 249,
+          "y": 411,
+          "w": 48,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "2.",
+          "x": 90,
+          "y": 433,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "Explain",
+          "x": 108,
+          "y": 433,
+          "w": 34,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "list",
+          "x": 144,
+          "y": 433,
+          "w": 14,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "methods",
+          "x": 161,
+          "y": 433,
+          "w": 42,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "and",
+          "x": 205,
+          "y": 433,
+          "w": 18,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "list",
+          "x": 226,
+          "y": 433,
+          "w": 14,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "comprehensions.",
+          "x": 242,
+          "y": 433,
+          "w": 83,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "3.",
+          "x": 90,
+          "y": 456,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "Compare",
+          "x": 108,
+          "y": 456,
+          "w": 44,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "List,",
+          "x": 154,
+          "y": 456,
+          "w": 20,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "Tuple,",
+          "x": 176,
+          "y": 456,
+          "w": 28,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "Set,",
+          "x": 207,
+          "y": 456,
+          "w": 18,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "Dictionary.",
+          "x": 228,
+          "y": 456,
+          "w": 51,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "4.",
+          "x": 90,
+          "y": 478,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "Write",
+          "x": 108,
+          "y": 478,
+          "w": 25,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "programs",
+          "x": 135,
+          "y": 478,
+          "w": 45,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "using",
+          "x": 182,
+          "y": 478,
+          "w": 25,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "dictionary",
+          "x": 210,
+          "y": 478,
+          "w": 47,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "and",
+          "x": 260,
+          "y": 478,
+          "w": 17,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "set",
+          "x": 280,
+          "y": 478,
+          "w": 14,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "operations.",
+          "x": 297,
+          "y": 478,
+          "w": 53,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "Highly",
+          "x": 106,
+          "y": 502,
+          "w": 31,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "Important:",
+          "x": 140,
+          "y": 502,
+          "w": 53,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "✔",
+          "x": 72,
+          "y": 517,
+          "w": 8,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "List",
+          "x": 83,
+          "y": 518,
+          "w": 16,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "&",
+          "x": 102,
+          "y": 518,
+          "w": 7,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "List",
+          "x": 111,
+          "y": 518,
+          "w": 17,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "Comprehension",
+          "x": 130,
+          "y": 518,
+          "w": 76,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "✔",
+          "x": 72,
+          "y": 533,
+          "w": 8,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "String",
+          "x": 83,
+          "y": 534,
+          "w": 27,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "Operations",
+          "x": 112,
+          "y": 534,
+          "w": 52,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "✔",
+          "x": 72,
+          "y": 549,
+          "w": 8,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "Difference",
+          "x": 83,
+          "y": 550,
+          "w": 49,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "between",
+          "x": 134,
+          "y": 550,
+          "w": 40,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "List,",
+          "x": 178,
+          "y": 550,
+          "w": 20,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "Tuple,",
+          "x": 200,
+          "y": 550,
+          "w": 28,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "Set,",
+          "x": 231,
+          "y": 550,
+          "w": 18,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "Dictionary",
+          "x": 252,
+          "y": 550,
+          "w": 48,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "UNIT",
+          "x": 89,
+          "y": 597,
+          "w": 24,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "IV",
+          "x": 116,
+          "y": 597,
+          "w": 10,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "–",
+          "x": 128,
+          "y": 597,
+          "w": 5,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "Exception",
+          "x": 135,
+          "y": 597,
+          "w": 49,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "Handling,",
+          "x": 187,
+          "y": 597,
+          "w": 48,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "File",
+          "x": 238,
+          "y": 597,
+          "w": 18,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "Handling",
+          "x": 258,
+          "y": 597,
+          "w": 45,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "&",
+          "x": 305,
+          "y": 597,
+          "w": 7,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "Modules",
+          "x": 315,
+          "y": 597,
+          "w": 43,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "Important",
+          "x": 89,
+          "y": 621,
+          "w": 50,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "Topics",
+          "x": 141,
+          "y": 621,
+          "w": 32,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "•",
+          "x": 90,
+          "y": 644,
+          "w": 4,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "Types",
+          "x": 108,
+          "y": 644,
+          "w": 27,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "of",
+          "x": 137,
+          "y": 644,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "Exceptions",
+          "x": 149,
+          "y": 644,
+          "w": 52,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "•",
+          "x": 90,
+          "y": 667,
+          "w": 4,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "try,",
+          "x": 108,
+          "y": 666,
+          "w": 14,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "except,",
+          "x": 125,
+          "y": 666,
+          "w": 34,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "finally",
+          "x": 161,
+          "y": 666,
+          "w": 28,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "•",
+          "x": 90,
+          "y": 689,
+          "w": 4,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "File",
+          "x": 108,
+          "y": 689,
+          "w": 16,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "Handling",
+          "x": 127,
+          "y": 689,
+          "w": 42,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "(read,",
+          "x": 172,
+          "y": 689,
+          "w": 27,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "write,",
+          "x": 202,
+          "y": 689,
+          "w": 26,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "append)",
+          "x": 230,
+          "y": 689,
+          "w": 39,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "•",
+          "x": 90,
+          "y": 712,
+          "w": 4,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "seek()",
+          "x": 108,
+          "y": 711,
+          "w": 28,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "function",
+          "x": 138,
+          "y": 711,
+          "w": 39,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "•",
+          "x": 90,
+          "y": 734,
+          "w": 4,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "Binary",
+          "x": 108,
+          "y": 734,
+          "w": 30,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        },
+        {
+          "word": "files",
+          "x": 140,
+          "y": 734,
+          "w": 19,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 3
+        }
+      ]
+    },
+    {
+      "page_num": 4,
+      "text": "• \nModules & Packages \n• \nImporting modules \n  Important Questions \nShort Questions: \n1. What is exception handling? \n2. Define seek() function. \n3. What is a module? \n4. Difference between text and binary file. \nLong Questions: \n1. Explain Python exception handling with example. \n2. Explain file handling operations. \n3. Explain modules and packages in Python. \n  Most Important: \n✔ Exception Handling \n✔ File Handling \n✔ Modules & Packages \n \n  UNIT V – Object Oriented Programming & Turtle \n  Important Topics \n• \nClass & Object \n• \nConstructor (init) \n• \nDestructor (del) \n• \nInstance & Class variables \n• \nMethod overloading \n• \nOperator overloading \n• \nInheritance \n• \nEncapsulation \n• \nTurtle module \n  Important Questions \nShort Questions: \n1. Define class and object.",
+      "confidence": 1.0,
+      "word_boxes": [
+        {
+          "word": "•",
+          "x": 90,
+          "y": 72,
+          "w": 4,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "Modules",
+          "x": 108,
+          "y": 71,
+          "w": 41,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "&",
+          "x": 151,
+          "y": 71,
+          "w": 7,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "Packages",
+          "x": 160,
+          "y": 71,
+          "w": 44,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "•",
+          "x": 90,
+          "y": 94,
+          "w": 4,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "Importing",
+          "x": 108,
+          "y": 94,
+          "w": 45,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "modules",
+          "x": 156,
+          "y": 94,
+          "w": 41,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "Important",
+          "x": 89,
+          "y": 118,
+          "w": 50,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "Questions",
+          "x": 141,
+          "y": 118,
+          "w": 51,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "Short",
+          "x": 72,
+          "y": 141,
+          "w": 27,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "Questions:",
+          "x": 101,
+          "y": 141,
+          "w": 54,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "1.",
+          "x": 90,
+          "y": 163,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "What",
+          "x": 108,
+          "y": 163,
+          "w": 25,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "is",
+          "x": 135,
+          "y": 163,
+          "w": 8,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "exception",
+          "x": 145,
+          "y": 163,
+          "w": 46,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "handling?",
+          "x": 194,
+          "y": 163,
+          "w": 46,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "2.",
+          "x": 90,
+          "y": 186,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "Define",
+          "x": 108,
+          "y": 186,
+          "w": 31,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "seek()",
+          "x": 141,
+          "y": 186,
+          "w": 28,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "function.",
+          "x": 172,
+          "y": 186,
+          "w": 42,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "3.",
+          "x": 90,
+          "y": 208,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "What",
+          "x": 108,
+          "y": 208,
+          "w": 25,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "is",
+          "x": 135,
+          "y": 208,
+          "w": 8,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "a",
+          "x": 145,
+          "y": 208,
+          "w": 5,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "module?",
+          "x": 153,
+          "y": 208,
+          "w": 41,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "4.",
+          "x": 90,
+          "y": 231,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "Difference",
+          "x": 108,
+          "y": 231,
+          "w": 49,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "between",
+          "x": 159,
+          "y": 231,
+          "w": 40,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "text",
+          "x": 203,
+          "y": 231,
+          "w": 17,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "and",
+          "x": 222,
+          "y": 231,
+          "w": 18,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "binary",
+          "x": 243,
+          "y": 231,
+          "w": 29,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "file.",
+          "x": 274,
+          "y": 231,
+          "w": 17,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "Long",
+          "x": 72,
+          "y": 253,
+          "w": 24,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "Questions:",
+          "x": 98,
+          "y": 253,
+          "w": 54,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "1.",
+          "x": 90,
+          "y": 276,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "Explain",
+          "x": 108,
+          "y": 276,
+          "w": 34,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "Python",
+          "x": 144,
+          "y": 276,
+          "w": 33,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "exception",
+          "x": 180,
+          "y": 276,
+          "w": 46,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "handling",
+          "x": 228,
+          "y": 276,
+          "w": 41,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "with",
+          "x": 272,
+          "y": 276,
+          "w": 20,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "example.",
+          "x": 294,
+          "y": 276,
+          "w": 43,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "2.",
+          "x": 90,
+          "y": 298,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "Explain",
+          "x": 108,
+          "y": 298,
+          "w": 34,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "file",
+          "x": 144,
+          "y": 298,
+          "w": 14,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "handling",
+          "x": 161,
+          "y": 298,
+          "w": 40,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "operations.",
+          "x": 204,
+          "y": 298,
+          "w": 53,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "3.",
+          "x": 90,
+          "y": 321,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "Explain",
+          "x": 108,
+          "y": 321,
+          "w": 34,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "modules",
+          "x": 144,
+          "y": 321,
+          "w": 41,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "and",
+          "x": 188,
+          "y": 321,
+          "w": 18,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "packages",
+          "x": 209,
+          "y": 321,
+          "w": 45,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "in",
+          "x": 256,
+          "y": 321,
+          "w": 8,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "Python.",
+          "x": 267,
+          "y": 321,
+          "w": 36,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "Most",
+          "x": 89,
+          "y": 345,
+          "w": 24,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "Important:",
+          "x": 116,
+          "y": 345,
+          "w": 53,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "✔",
+          "x": 72,
+          "y": 359,
+          "w": 8,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "Exception",
+          "x": 83,
+          "y": 361,
+          "w": 46,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "Handling",
+          "x": 132,
+          "y": 361,
+          "w": 42,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "✔",
+          "x": 72,
+          "y": 375,
+          "w": 8,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "File",
+          "x": 83,
+          "y": 377,
+          "w": 16,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "Handling",
+          "x": 102,
+          "y": 377,
+          "w": 42,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "✔",
+          "x": 72,
+          "y": 391,
+          "w": 8,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "Modules",
+          "x": 83,
+          "y": 393,
+          "w": 41,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "&",
+          "x": 126,
+          "y": 393,
+          "w": 7,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "Packages",
+          "x": 135,
+          "y": 393,
+          "w": 44,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "UNIT",
+          "x": 89,
+          "y": 440,
+          "w": 24,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "V",
+          "x": 116,
+          "y": 440,
+          "w": 6,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "–",
+          "x": 125,
+          "y": 440,
+          "w": 5,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "Object",
+          "x": 132,
+          "y": 440,
+          "w": 33,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "Oriented",
+          "x": 168,
+          "y": 440,
+          "w": 44,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "Programming",
+          "x": 214,
+          "y": 440,
+          "w": 66,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "&",
+          "x": 283,
+          "y": 440,
+          "w": 7,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "Turtle",
+          "x": 293,
+          "y": 440,
+          "w": 28,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "Important",
+          "x": 89,
+          "y": 464,
+          "w": 50,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "Topics",
+          "x": 141,
+          "y": 464,
+          "w": 32,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "•",
+          "x": 90,
+          "y": 487,
+          "w": 4,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "Class",
+          "x": 108,
+          "y": 486,
+          "w": 26,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "&",
+          "x": 137,
+          "y": 486,
+          "w": 7,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "Object",
+          "x": 146,
+          "y": 486,
+          "w": 31,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "•",
+          "x": 90,
+          "y": 509,
+          "w": 4,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "Constructor",
+          "x": 108,
+          "y": 509,
+          "w": 57,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "(init)",
+          "x": 167,
+          "y": 509,
+          "w": 22,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "•",
+          "x": 90,
+          "y": 532,
+          "w": 4,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "Destructor",
+          "x": 108,
+          "y": 531,
+          "w": 51,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "(del)",
+          "x": 161,
+          "y": 531,
+          "w": 22,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "•",
+          "x": 90,
+          "y": 554,
+          "w": 4,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "Instance",
+          "x": 108,
+          "y": 554,
+          "w": 41,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "&",
+          "x": 151,
+          "y": 554,
+          "w": 7,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "Class",
+          "x": 160,
+          "y": 554,
+          "w": 26,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "variables",
+          "x": 189,
+          "y": 554,
+          "w": 42,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "•",
+          "x": 90,
+          "y": 577,
+          "w": 4,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "Method",
+          "x": 108,
+          "y": 576,
+          "w": 36,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "overloading",
+          "x": 146,
+          "y": 576,
+          "w": 55,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "•",
+          "x": 90,
+          "y": 599,
+          "w": 4,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "Operator",
+          "x": 108,
+          "y": 599,
+          "w": 42,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "overloading",
+          "x": 152,
+          "y": 599,
+          "w": 55,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "•",
+          "x": 90,
+          "y": 622,
+          "w": 4,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "Inheritance",
+          "x": 108,
+          "y": 621,
+          "w": 54,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "•",
+          "x": 90,
+          "y": 644,
+          "w": 4,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "Encapsulation",
+          "x": 108,
+          "y": 644,
+          "w": 68,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "•",
+          "x": 90,
+          "y": 667,
+          "w": 4,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "Turtle",
+          "x": 108,
+          "y": 666,
+          "w": 27,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "module",
+          "x": 137,
+          "y": 666,
+          "w": 36,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "Important",
+          "x": 89,
+          "y": 690,
+          "w": 50,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "Questions",
+          "x": 141,
+          "y": 690,
+          "w": 51,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "Short",
+          "x": 72,
+          "y": 713,
+          "w": 27,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "Questions:",
+          "x": 101,
+          "y": 713,
+          "w": 54,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "1.",
+          "x": 90,
+          "y": 735,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "Define",
+          "x": 108,
+          "y": 735,
+          "w": 31,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "class",
+          "x": 141,
+          "y": 735,
+          "w": 24,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "and",
+          "x": 168,
+          "y": 735,
+          "w": 18,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        },
+        {
+          "word": "object.",
+          "x": 188,
+          "y": 735,
+          "w": 33,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 4
+        }
+      ]
+    },
+    {
+      "page_num": 5,
+      "text": "2. What is constructor? \n3. What is inheritance? \n4. Define encapsulation. \n5. What is turtle module? \nLong Questions: \n1. Explain OOP concepts in Python. \n2. Write a program using class and constructor. \n3. Explain inheritance with example. \n4. Explain operator overloading. \n5. Write a simple turtle graphics program. \n    Very Important: \n✔ OOP Concepts \n✔ Constructor & Inheritance \n✔ Turtle Graphics Program \n \n  HIGH PRIORITY TOPICS (Study First) \nIf exam is near, focus on: \n1. Functions & Recursion \n2. Lists & List Comprehension \n3. File Handling \n4. Exception Handling \n5. OOP Concepts \n6. Inheritance \n7. Decision & Loop Statements \n \n  Unit Weightage Suggestion \nUnit \nDifficulty Exam Weight \nUnit I Easy \nMedium \nUnit II Moderate High \nUnit III Moderate High",
+      "confidence": 1.0,
+      "word_boxes": [
+        {
+          "word": "2.",
+          "x": 90,
+          "y": 71,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "What",
+          "x": 108,
+          "y": 71,
+          "w": 25,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "is",
+          "x": 135,
+          "y": 71,
+          "w": 8,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "constructor?",
+          "x": 145,
+          "y": 71,
+          "w": 61,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "3.",
+          "x": 90,
+          "y": 94,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "What",
+          "x": 108,
+          "y": 94,
+          "w": 25,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "is",
+          "x": 135,
+          "y": 94,
+          "w": 8,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "inheritance?",
+          "x": 145,
+          "y": 94,
+          "w": 59,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "4.",
+          "x": 90,
+          "y": 116,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "Define",
+          "x": 108,
+          "y": 116,
+          "w": 31,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "encapsulation.",
+          "x": 141,
+          "y": 116,
+          "w": 71,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "5.",
+          "x": 90,
+          "y": 139,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "What",
+          "x": 108,
+          "y": 139,
+          "w": 25,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "is",
+          "x": 135,
+          "y": 139,
+          "w": 8,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "turtle",
+          "x": 145,
+          "y": 139,
+          "w": 25,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "module?",
+          "x": 173,
+          "y": 139,
+          "w": 41,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "Long",
+          "x": 72,
+          "y": 161,
+          "w": 24,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "Questions:",
+          "x": 98,
+          "y": 161,
+          "w": 54,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "1.",
+          "x": 90,
+          "y": 184,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "Explain",
+          "x": 108,
+          "y": 184,
+          "w": 34,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "OOP",
+          "x": 144,
+          "y": 184,
+          "w": 22,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "concepts",
+          "x": 169,
+          "y": 184,
+          "w": 44,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "in",
+          "x": 216,
+          "y": 184,
+          "w": 8,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "Python.",
+          "x": 227,
+          "y": 184,
+          "w": 36,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "2.",
+          "x": 90,
+          "y": 206,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "Write",
+          "x": 108,
+          "y": 206,
+          "w": 25,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "a",
+          "x": 135,
+          "y": 206,
+          "w": 5,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "program",
+          "x": 143,
+          "y": 206,
+          "w": 39,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "using",
+          "x": 185,
+          "y": 206,
+          "w": 25,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "class",
+          "x": 213,
+          "y": 206,
+          "w": 24,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "and",
+          "x": 240,
+          "y": 206,
+          "w": 18,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "constructor.",
+          "x": 260,
+          "y": 206,
+          "w": 57,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "3.",
+          "x": 90,
+          "y": 229,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "Explain",
+          "x": 108,
+          "y": 229,
+          "w": 34,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "inheritance",
+          "x": 144,
+          "y": 229,
+          "w": 53,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "with",
+          "x": 200,
+          "y": 229,
+          "w": 20,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "example.",
+          "x": 223,
+          "y": 229,
+          "w": 43,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "4.",
+          "x": 90,
+          "y": 251,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "Explain",
+          "x": 108,
+          "y": 251,
+          "w": 34,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "operator",
+          "x": 144,
+          "y": 251,
+          "w": 40,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "overloading.",
+          "x": 187,
+          "y": 251,
+          "w": 58,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "5.",
+          "x": 90,
+          "y": 274,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "Write",
+          "x": 108,
+          "y": 274,
+          "w": 25,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "a",
+          "x": 135,
+          "y": 274,
+          "w": 5,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "simple",
+          "x": 143,
+          "y": 274,
+          "w": 32,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "turtle",
+          "x": 178,
+          "y": 274,
+          "w": 25,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "graphics",
+          "x": 205,
+          "y": 274,
+          "w": 40,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "program.",
+          "x": 248,
+          "y": 274,
+          "w": 42,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "Very",
+          "x": 106,
+          "y": 298,
+          "w": 22,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "Important:",
+          "x": 131,
+          "y": 298,
+          "w": 53,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "✔",
+          "x": 72,
+          "y": 313,
+          "w": 8,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "OOP",
+          "x": 83,
+          "y": 314,
+          "w": 22,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "Concepts",
+          "x": 107,
+          "y": 314,
+          "w": 46,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "✔",
+          "x": 72,
+          "y": 329,
+          "w": 8,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "Constructor",
+          "x": 83,
+          "y": 330,
+          "w": 57,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "&",
+          "x": 142,
+          "y": 330,
+          "w": 7,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "Inheritance",
+          "x": 152,
+          "y": 330,
+          "w": 53,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "✔",
+          "x": 72,
+          "y": 345,
+          "w": 8,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "Turtle",
+          "x": 83,
+          "y": 346,
+          "w": 26,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "Graphics",
+          "x": 112,
+          "y": 346,
+          "w": 42,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "Program",
+          "x": 157,
+          "y": 346,
+          "w": 39,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "HIGH",
+          "x": 89,
+          "y": 393,
+          "w": 27,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "PRIORITY",
+          "x": 118,
+          "y": 393,
+          "w": 47,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "TOPICS",
+          "x": 168,
+          "y": 393,
+          "w": 37,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "(Study",
+          "x": 208,
+          "y": 393,
+          "w": 32,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "First)",
+          "x": 242,
+          "y": 393,
+          "w": 25,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "If",
+          "x": 72,
+          "y": 416,
+          "w": 6,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "exam",
+          "x": 80,
+          "y": 416,
+          "w": 25,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "is",
+          "x": 108,
+          "y": 416,
+          "w": 8,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "near,",
+          "x": 118,
+          "y": 416,
+          "w": 23,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "focus",
+          "x": 144,
+          "y": 416,
+          "w": 26,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "on:",
+          "x": 173,
+          "y": 416,
+          "w": 15,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "1.",
+          "x": 90,
+          "y": 438,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "Functions",
+          "x": 108,
+          "y": 438,
+          "w": 47,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "&",
+          "x": 157,
+          "y": 438,
+          "w": 7,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "Recursion",
+          "x": 166,
+          "y": 438,
+          "w": 48,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "2.",
+          "x": 90,
+          "y": 461,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "Lists",
+          "x": 108,
+          "y": 461,
+          "w": 22,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "&",
+          "x": 132,
+          "y": 461,
+          "w": 7,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "List",
+          "x": 141,
+          "y": 461,
+          "w": 17,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "Comprehension",
+          "x": 161,
+          "y": 461,
+          "w": 76,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "3.",
+          "x": 90,
+          "y": 483,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "File",
+          "x": 108,
+          "y": 483,
+          "w": 16,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "Handling",
+          "x": 127,
+          "y": 483,
+          "w": 42,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "4.",
+          "x": 90,
+          "y": 506,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "Exception",
+          "x": 108,
+          "y": 506,
+          "w": 46,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "Handling",
+          "x": 157,
+          "y": 506,
+          "w": 42,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "5.",
+          "x": 90,
+          "y": 528,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "OOP",
+          "x": 108,
+          "y": 528,
+          "w": 22,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "Concepts",
+          "x": 132,
+          "y": 528,
+          "w": 46,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "6.",
+          "x": 90,
+          "y": 550,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "Inheritance",
+          "x": 108,
+          "y": 550,
+          "w": 54,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "7.",
+          "x": 90,
+          "y": 573,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "Decision",
+          "x": 108,
+          "y": 573,
+          "w": 41,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "&",
+          "x": 152,
+          "y": 573,
+          "w": 7,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "Loop",
+          "x": 161,
+          "y": 573,
+          "w": 23,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "Statements",
+          "x": 187,
+          "y": 573,
+          "w": 54,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "Unit",
+          "x": 89,
+          "y": 620,
+          "w": 20,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "Weightage",
+          "x": 112,
+          "y": 620,
+          "w": 52,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "Suggestion",
+          "x": 167,
+          "y": 620,
+          "w": 55,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "Unit",
+          "x": 74,
+          "y": 644,
+          "w": 20,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "Difficulty",
+          "x": 108,
+          "y": 644,
+          "w": 46,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "Exam",
+          "x": 157,
+          "y": 644,
+          "w": 27,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "Weight",
+          "x": 187,
+          "y": 644,
+          "w": 34,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "Unit",
+          "x": 74,
+          "y": 670,
+          "w": 19,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "I",
+          "x": 96,
+          "y": 670,
+          "w": 2,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "Easy",
+          "x": 108,
+          "y": 670,
+          "w": 22,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "Medium",
+          "x": 157,
+          "y": 670,
+          "w": 38,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "Unit",
+          "x": 74,
+          "y": 695,
+          "w": 19,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "II",
+          "x": 96,
+          "y": 695,
+          "w": 5,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "Moderate",
+          "x": 108,
+          "y": 695,
+          "w": 45,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "High",
+          "x": 157,
+          "y": 695,
+          "w": 21,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "Unit",
+          "x": 74,
+          "y": 721,
+          "w": 19,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "III",
+          "x": 96,
+          "y": 721,
+          "w": 8,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "Moderate",
+          "x": 108,
+          "y": 721,
+          "w": 45,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        },
+        {
+          "word": "High",
+          "x": 157,
+          "y": 721,
+          "w": 21,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 5
+        }
+      ]
+    },
+    {
+      "page_num": 6,
+      "text": "Unit \nDifficulty Exam Weight \nUnit IV Moderate Medium \nUnit V Moderate High",
+      "confidence": 1.0,
+      "word_boxes": [
+        {
+          "word": "Unit",
+          "x": 74,
+          "y": 74,
+          "w": 20,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 6
+        },
+        {
+          "word": "Difficulty",
+          "x": 108,
+          "y": 74,
+          "w": 46,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 6
+        },
+        {
+          "word": "Exam",
+          "x": 157,
+          "y": 74,
+          "w": 27,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 6
+        },
+        {
+          "word": "Weight",
+          "x": 187,
+          "y": 74,
+          "w": 34,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 6
+        },
+        {
+          "word": "Unit",
+          "x": 74,
+          "y": 99,
+          "w": 19,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 6
+        },
+        {
+          "word": "IV",
+          "x": 96,
+          "y": 99,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 6
+        },
+        {
+          "word": "Moderate",
+          "x": 108,
+          "y": 99,
+          "w": 45,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 6
+        },
+        {
+          "word": "Medium",
+          "x": 157,
+          "y": 99,
+          "w": 38,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 6
+        },
+        {
+          "word": "Unit",
+          "x": 74,
+          "y": 125,
+          "w": 19,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 6
+        },
+        {
+          "word": "V",
+          "x": 96,
+          "y": 125,
+          "w": 6,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 6
+        },
+        {
+          "word": "Moderate",
+          "x": 108,
+          "y": 125,
+          "w": 45,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 6
+        },
+        {
+          "word": "High",
+          "x": 157,
+          "y": 125,
+          "w": 21,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 6
+        }
+      ]
+    }
+  ],
+  "extraction_method": "native_pdf"
+}

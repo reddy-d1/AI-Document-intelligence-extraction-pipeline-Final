@@ -1,0 +1,1454 @@
+{
+  "raw_text": "Komarappagari Thulasiram\nPhone: +919160936198\nEmail: reddythulasi69@gmail.com\nLinkedIn • Leetcode\nEDUCATION\nBachelor of Technology (Information technology)\n2024 - 2027\nSri Venkateswara College Of Engineering\nGrade: 8.0/10.0\nDiploma\n2019 - 2024\nChadalawada Ramanamma Engineering College\nGrade: 60.49%\nMatriculation (Class X)\n2018 - 2019\nZPHS Papanaidupeta\nGrade: 9.0/10.0\nPROJECTS\nStudent Record Management System\nFebruary 2026\nDeveloped a basic application to add, update, delete, and view student records using a database.\nCERTIFICATIONS\nGenAI Workshop NxtWave\nApril 2026\nParticipated in a Generative AI workshop, gaining foundational knowledge of AI tools, prompt engineering, and real-world\nAI applications.\nTCS ION Communication Skills Tata Consultancy Services\nJune 2021\nSuccessfully completed a communication skills certification program by TCS, enhancing verbal communication,\nprofessional interaction, and workplace communication abilities.\nSKILLS\nComputer Language: Python, C, Java\nSoft Skill: Communication Skills, Problem-Solving\nDatabases & Data Tools: MySQL\nEXTRA-CURRICULAR ACTIVITIES\nActive member of Save Oxygen Foundation, contributing to the plantation of 5,000+ trees and motivating people to\nparticipate in environmental conservation and sustainability initiatives.",
+  "confidence": 1.0,
+  "pages": [
+    {
+      "page_num": 1,
+      "text": "Komarappagari Thulasiram\nPhone: +919160936198\nEmail: reddythulasi69@gmail.com\nLinkedIn • Leetcode\nEDUCATION\nBachelor of Technology (Information technology)\n2024 - 2027\nSri Venkateswara College Of Engineering\nGrade: 8.0/10.0\nDiploma\n2019 - 2024\nChadalawada Ramanamma Engineering College\nGrade: 60.49%\nMatriculation (Class X)\n2018 - 2019\nZPHS Papanaidupeta\nGrade: 9.0/10.0\nPROJECTS\nStudent Record Management System\nFebruary 2026\nDeveloped a basic application to add, update, delete, and view student records using a database.\nCERTIFICATIONS\nGenAI Workshop NxtWave\nApril 2026\nParticipated in a Generative AI workshop, gaining foundational knowledge of AI tools, prompt engineering, and real-world\nAI applications.\nTCS ION Communication Skills Tata Consultancy Services\nJune 2021\nSuccessfully completed a communication skills certification program by TCS, enhancing verbal communication,\nprofessional interaction, and workplace communication abilities.\nSKILLS\nComputer Language: Python, C, Java\nSoft Skill: Communication Skills, Problem-Solving\nDatabases & Data Tools: MySQL\nEXTRA-CURRICULAR ACTIVITIES\nActive member of Save Oxygen Foundation, contributing to the plantation of 5,000+ trees and motivating people to\nparticipate in environmental conservation and sustainability initiatives.",
+      "confidence": 1.0,
+      "word_boxes": [
+        {
+          "word": "Komarappagari",
+          "x": 28,
+          "y": 16,
+          "w": 131,
+          "h": 17,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Thulasiram",
+          "x": 166,
+          "y": 16,
+          "w": 95,
+          "h": 17,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Phone:",
+          "x": 28,
+          "y": 36,
+          "w": 34,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "+919160936198",
+          "x": 67,
+          "y": 36,
+          "w": 67,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Email:",
+          "x": 28,
+          "y": 48,
+          "w": 32,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "reddythulasi69@gmail.com",
+          "x": 65,
+          "y": 48,
+          "w": 115,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "LinkedIn",
+          "x": 28,
+          "y": 64,
+          "w": 38,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "•",
+          "x": 70,
+          "y": 63,
+          "w": 4,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Leetcode",
+          "x": 82,
+          "y": 64,
+          "w": 38,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "EDUCATION",
+          "x": 28,
+          "y": 90,
+          "w": 71,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Bachelor",
+          "x": 28,
+          "y": 114,
+          "w": 43,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "of",
+          "x": 76,
+          "y": 114,
+          "w": 9,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Technology",
+          "x": 89,
+          "y": 114,
+          "w": 56,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "(Information",
+          "x": 148,
+          "y": 114,
+          "w": 55,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "technology)",
+          "x": 207,
+          "y": 114,
+          "w": 50,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "2024",
+          "x": 533,
+          "y": 114,
+          "w": 19,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "-",
+          "x": 556,
+          "y": 114,
+          "w": 3,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "2027",
+          "x": 563,
+          "y": 114,
+          "w": 19,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Sri",
+          "x": 28,
+          "y": 128,
+          "w": 12,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Venkateswara",
+          "x": 44,
+          "y": 128,
+          "w": 59,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "College",
+          "x": 106,
+          "y": 128,
+          "w": 31,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Of",
+          "x": 141,
+          "y": 128,
+          "w": 10,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Engineering",
+          "x": 155,
+          "y": 128,
+          "w": 51,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Grade:",
+          "x": 513,
+          "y": 128,
+          "w": 29,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "8.0/10.0",
+          "x": 547,
+          "y": 128,
+          "w": 35,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Diploma",
+          "x": 28,
+          "y": 148,
+          "w": 42,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "2019",
+          "x": 533,
+          "y": 148,
+          "w": 19,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "-",
+          "x": 556,
+          "y": 148,
+          "w": 3,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "2024",
+          "x": 563,
+          "y": 148,
+          "w": 19,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Chadalawada",
+          "x": 28,
+          "y": 161,
+          "w": 58,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Ramanamma",
+          "x": 90,
+          "y": 161,
+          "w": 57,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Engineering",
+          "x": 151,
+          "y": 161,
+          "w": 51,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "College",
+          "x": 206,
+          "y": 161,
+          "w": 31,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Grade:",
+          "x": 518,
+          "y": 161,
+          "w": 29,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "60.49%",
+          "x": 552,
+          "y": 161,
+          "w": 30,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Matriculation",
+          "x": 28,
+          "y": 181,
+          "w": 68,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "(Class",
+          "x": 101,
+          "y": 181,
+          "w": 30,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "X)",
+          "x": 135,
+          "y": 181,
+          "w": 13,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "2018",
+          "x": 533,
+          "y": 181,
+          "w": 19,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "-",
+          "x": 556,
+          "y": 181,
+          "w": 3,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "2019",
+          "x": 563,
+          "y": 181,
+          "w": 19,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "ZPHS",
+          "x": 28,
+          "y": 195,
+          "w": 25,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Papanaidupeta",
+          "x": 58,
+          "y": 195,
+          "w": 65,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Grade:",
+          "x": 513,
+          "y": 195,
+          "w": 29,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "9.0/10.0",
+          "x": 547,
+          "y": 195,
+          "w": 35,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "PROJECTS",
+          "x": 28,
+          "y": 221,
+          "w": 60,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Student",
+          "x": 28,
+          "y": 244,
+          "w": 39,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Record",
+          "x": 71,
+          "y": 244,
+          "w": 35,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Management",
+          "x": 111,
+          "y": 244,
+          "w": 64,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "System",
+          "x": 179,
+          "y": 244,
+          "w": 36,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "February",
+          "x": 520,
+          "y": 244,
+          "w": 39,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "2026",
+          "x": 563,
+          "y": 244,
+          "w": 19,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Developed",
+          "x": 48,
+          "y": 256,
+          "w": 44,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "a",
+          "x": 97,
+          "y": 256,
+          "w": 4,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "basic",
+          "x": 105,
+          "y": 256,
+          "w": 21,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "application",
+          "x": 130,
+          "y": 256,
+          "w": 48,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "to",
+          "x": 181,
+          "y": 256,
+          "w": 8,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "add,",
+          "x": 193,
+          "y": 256,
+          "w": 18,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "update,",
+          "x": 216,
+          "y": 256,
+          "w": 32,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "delete,",
+          "x": 252,
+          "y": 256,
+          "w": 28,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "and",
+          "x": 283,
+          "y": 256,
+          "w": 16,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "view",
+          "x": 303,
+          "y": 256,
+          "w": 19,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "student",
+          "x": 326,
+          "y": 256,
+          "w": 32,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "records",
+          "x": 362,
+          "y": 256,
+          "w": 31,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "using",
+          "x": 396,
+          "y": 256,
+          "w": 22,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "a",
+          "x": 422,
+          "y": 256,
+          "w": 4,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "database.",
+          "x": 430,
+          "y": 256,
+          "w": 41,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "CERTIFICATIONS",
+          "x": 28,
+          "y": 282,
+          "w": 99,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "GenAI",
+          "x": 28,
+          "y": 305,
+          "w": 33,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Workshop",
+          "x": 66,
+          "y": 305,
+          "w": 50,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "NxtWave",
+          "x": 119,
+          "y": 305,
+          "w": 40,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "April",
+          "x": 537,
+          "y": 305,
+          "w": 22,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "2026",
+          "x": 563,
+          "y": 305,
+          "w": 19,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Participated",
+          "x": 48,
+          "y": 317,
+          "w": 53,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "in",
+          "x": 105,
+          "y": 317,
+          "w": 8,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "a",
+          "x": 117,
+          "y": 317,
+          "w": 4,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Generative",
+          "x": 125,
+          "y": 317,
+          "w": 47,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "AI",
+          "x": 175,
+          "y": 317,
+          "w": 11,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "workshop,",
+          "x": 189,
+          "y": 317,
+          "w": 43,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "gaining",
+          "x": 236,
+          "y": 317,
+          "w": 31,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "foundational",
+          "x": 271,
+          "y": 317,
+          "w": 54,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "knowledge",
+          "x": 329,
+          "y": 317,
+          "w": 44,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "of",
+          "x": 377,
+          "y": 317,
+          "w": 8,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "AI",
+          "x": 388,
+          "y": 317,
+          "w": 11,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "tools,",
+          "x": 403,
+          "y": 317,
+          "w": 23,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "prompt",
+          "x": 429,
+          "y": 317,
+          "w": 32,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "engineering,",
+          "x": 465,
+          "y": 317,
+          "w": 52,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "and",
+          "x": 520,
+          "y": 317,
+          "w": 16,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "real-world",
+          "x": 539,
+          "y": 317,
+          "w": 43,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "AI",
+          "x": 28,
+          "y": 329,
+          "w": 11,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "applications.",
+          "x": 43,
+          "y": 329,
+          "w": 54,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "TCS",
+          "x": 28,
+          "y": 341,
+          "w": 22,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "ION",
+          "x": 55,
+          "y": 341,
+          "w": 21,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Communication",
+          "x": 80,
+          "y": 341,
+          "w": 79,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Skills",
+          "x": 163,
+          "y": 341,
+          "w": 26,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Tata",
+          "x": 193,
+          "y": 341,
+          "w": 20,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Consultancy",
+          "x": 217,
+          "y": 341,
+          "w": 54,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Services",
+          "x": 274,
+          "y": 341,
+          "w": 34,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "June",
+          "x": 539,
+          "y": 341,
+          "w": 20,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "2021",
+          "x": 563,
+          "y": 341,
+          "w": 19,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Successfully",
+          "x": 48,
+          "y": 353,
+          "w": 51,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "completed",
+          "x": 103,
+          "y": 353,
+          "w": 44,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "a",
+          "x": 151,
+          "y": 353,
+          "w": 4,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "communication",
+          "x": 159,
+          "y": 353,
+          "w": 66,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "skills",
+          "x": 228,
+          "y": 353,
+          "w": 21,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "certification",
+          "x": 253,
+          "y": 353,
+          "w": 51,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "program",
+          "x": 308,
+          "y": 353,
+          "w": 36,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "by",
+          "x": 348,
+          "y": 353,
+          "w": 10,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "TCS,",
+          "x": 362,
+          "y": 353,
+          "w": 22,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "enhancing",
+          "x": 388,
+          "y": 353,
+          "w": 43,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "verbal",
+          "x": 435,
+          "y": 353,
+          "w": 26,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "communication,",
+          "x": 465,
+          "y": 353,
+          "w": 68,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "professional",
+          "x": 28,
+          "y": 365,
+          "w": 50,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "interaction,",
+          "x": 82,
+          "y": 365,
+          "w": 49,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "and",
+          "x": 135,
+          "y": 365,
+          "w": 16,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "workplace",
+          "x": 155,
+          "y": 365,
+          "w": 43,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "communication",
+          "x": 201,
+          "y": 365,
+          "w": 66,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "abilities.",
+          "x": 271,
+          "y": 365,
+          "w": 36,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "SKILLS",
+          "x": 28,
+          "y": 391,
+          "w": 39,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Computer",
+          "x": 28,
+          "y": 414,
+          "w": 50,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Language:",
+          "x": 83,
+          "y": 414,
+          "w": 50,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Python,",
+          "x": 138,
+          "y": 414,
+          "w": 34,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "C,",
+          "x": 176,
+          "y": 414,
+          "w": 9,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Java",
+          "x": 189,
+          "y": 414,
+          "w": 19,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Soft",
+          "x": 28,
+          "y": 426,
+          "w": 20,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Skill:",
+          "x": 52,
+          "y": 426,
+          "w": 25,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Communication",
+          "x": 82,
+          "y": 426,
+          "w": 68,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Skills,",
+          "x": 154,
+          "y": 426,
+          "w": 25,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Problem-Solving",
+          "x": 183,
+          "y": 426,
+          "w": 71,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Databases",
+          "x": 28,
+          "y": 438,
+          "w": 50,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "&",
+          "x": 83,
+          "y": 438,
+          "w": 8,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Data",
+          "x": 95,
+          "y": 438,
+          "w": 24,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Tools:",
+          "x": 124,
+          "y": 438,
+          "w": 29,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "MySQL",
+          "x": 158,
+          "y": 438,
+          "w": 33,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "EXTRA-CURRICULAR",
+          "x": 28,
+          "y": 464,
+          "w": 125,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "ACTIVITIES",
+          "x": 157,
+          "y": 464,
+          "w": 68,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Active",
+          "x": 28,
+          "y": 487,
+          "w": 27,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "member",
+          "x": 60,
+          "y": 487,
+          "w": 34,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "of",
+          "x": 98,
+          "y": 487,
+          "w": 8,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Save",
+          "x": 109,
+          "y": 487,
+          "w": 19,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Oxygen",
+          "x": 132,
+          "y": 487,
+          "w": 33,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Foundation,",
+          "x": 169,
+          "y": 487,
+          "w": 52,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "contributing",
+          "x": 224,
+          "y": 487,
+          "w": 53,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "to",
+          "x": 281,
+          "y": 487,
+          "w": 8,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "the",
+          "x": 293,
+          "y": 487,
+          "w": 13,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "plantation",
+          "x": 310,
+          "y": 487,
+          "w": 44,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "of",
+          "x": 358,
+          "y": 487,
+          "w": 8,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "5,000+",
+          "x": 370,
+          "y": 487,
+          "w": 30,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "trees",
+          "x": 403,
+          "y": 487,
+          "w": 20,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "and",
+          "x": 427,
+          "y": 487,
+          "w": 16,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "motivating",
+          "x": 447,
+          "y": 487,
+          "w": 46,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "people",
+          "x": 497,
+          "y": 487,
+          "w": 27,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "to",
+          "x": 528,
+          "y": 487,
+          "w": 8,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "participate",
+          "x": 28,
+          "y": 499,
+          "w": 47,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "in",
+          "x": 79,
+          "y": 499,
+          "w": 8,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "environmental",
+          "x": 90,
+          "y": 499,
+          "w": 61,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "conservation",
+          "x": 155,
+          "y": 499,
+          "w": 54,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "and",
+          "x": 213,
+          "y": 499,
+          "w": 16,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "sustainability",
+          "x": 232,
+          "y": 499,
+          "w": 58,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "initiatives.",
+          "x": 294,
+          "y": 499,
+          "w": 45,
+          "h": 9,
+          "confidence": 1.0,
+          "page_num": 1
+        }
+      ]
+    }
+  ],
+  "extraction_method": "native_pdf"
+}

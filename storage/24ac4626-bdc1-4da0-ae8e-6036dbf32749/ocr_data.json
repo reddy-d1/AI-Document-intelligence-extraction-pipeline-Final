@@ -1,0 +1,320 @@
+{
+  "raw_text": "MASTER SERVICES AGREEMENT\nContract Title: Master Software Licensing Agreement\nEffective Date: 2026-01-15\nExpiration Date: 2027-01-15\nFirst Party: Alpha Enterprise Tech\nSecond Party: Beta Global Corp\nContract Value: $120,000.00\nGoverning Law: State of New York",
+  "confidence": 1.0,
+  "pages": [
+    {
+      "page_num": 1,
+      "text": "MASTER SERVICES AGREEMENT\nContract Title: Master Software Licensing Agreement\nEffective Date: 2026-01-15\nExpiration Date: 2027-01-15\nFirst Party: Alpha Enterprise Tech\nSecond Party: Beta Global Corp\nContract Value: $120,000.00\nGoverning Law: State of New York",
+      "confidence": 1.0,
+      "word_boxes": [
+        {
+          "word": "MASTER",
+          "x": 50,
+          "y": 56,
+          "w": 91,
+          "h": 30,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "SERVICES",
+          "x": 147,
+          "y": 56,
+          "w": 111,
+          "h": 30,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "AGREEMENT",
+          "x": 265,
+          "y": 56,
+          "w": 139,
+          "h": 30,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Contract",
+          "x": 50,
+          "y": 108,
+          "w": 41,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Title:",
+          "x": 94,
+          "y": 108,
+          "w": 23,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Master",
+          "x": 121,
+          "y": 108,
+          "w": 33,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Software",
+          "x": 158,
+          "y": 108,
+          "w": 43,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Licensing",
+          "x": 204,
+          "y": 108,
+          "w": 46,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Agreement",
+          "x": 254,
+          "y": 108,
+          "w": 53,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Effective",
+          "x": 50,
+          "y": 128,
+          "w": 42,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Date:",
+          "x": 95,
+          "y": 128,
+          "w": 26,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "2026-01-15",
+          "x": 124,
+          "y": 128,
+          "w": 56,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Expiration",
+          "x": 50,
+          "y": 148,
+          "w": 48,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Date:",
+          "x": 101,
+          "y": 148,
+          "w": 26,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "2027-01-15",
+          "x": 131,
+          "y": 148,
+          "w": 56,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "First",
+          "x": 50,
+          "y": 168,
+          "w": 21,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Party:",
+          "x": 74,
+          "y": 168,
+          "w": 28,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Alpha",
+          "x": 106,
+          "y": 168,
+          "w": 28,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Enterprise",
+          "x": 137,
+          "y": 168,
+          "w": 50,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Tech",
+          "x": 190,
+          "y": 168,
+          "w": 24,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Second",
+          "x": 50,
+          "y": 188,
+          "w": 37,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Party:",
+          "x": 90,
+          "y": 188,
+          "w": 28,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Beta",
+          "x": 122,
+          "y": 188,
+          "w": 22,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Global",
+          "x": 147,
+          "y": 188,
+          "w": 31,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Corp",
+          "x": 182,
+          "y": 188,
+          "w": 23,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Contract",
+          "x": 50,
+          "y": 208,
+          "w": 41,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Value:",
+          "x": 94,
+          "y": 208,
+          "w": 31,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "$120,000.00",
+          "x": 128,
+          "y": 208,
+          "w": 61,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Governing",
+          "x": 50,
+          "y": 228,
+          "w": 50,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Law:",
+          "x": 103,
+          "y": 228,
+          "w": 23,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "State",
+          "x": 130,
+          "y": 228,
+          "w": 25,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "of",
+          "x": 158,
+          "y": 228,
+          "w": 9,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "New",
+          "x": 171,
+          "y": 228,
+          "w": 22,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "York",
+          "x": 196,
+          "y": 228,
+          "w": 22,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        }
+      ]
+    }
+  ],
+  "extraction_method": "native_pdf"
+}

@@ -1,0 +1,327 @@
+{
+  "raw_text": "--- Slide 1 ---\nAI Document Intelligence Architecture\nPresenter: Tech Lead | Date: 2026-08-13\n\n--- Slide 2 ---\nSystem Pipeline Overview\nAutomated Document Ingestion & Classification\nStructured Field Extraction with Dynamic Fallback",
+  "confidence": 1.0,
+  "pages": [
+    {
+      "page_num": 1,
+      "text": "--- Slide 1 ---\nAI Document Intelligence Architecture\nPresenter: Tech Lead | Date: 2026-08-13",
+      "confidence": 1.0,
+      "word_boxes": [
+        {
+          "word": "AI",
+          "x": 50,
+          "y": 18,
+          "w": 16,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Document",
+          "x": 50,
+          "y": 36,
+          "w": 64,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Intelligence",
+          "x": 50,
+          "y": 54,
+          "w": 96,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Architecture",
+          "x": 50,
+          "y": 72,
+          "w": 96,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Presenter:",
+          "x": 50,
+          "y": 90,
+          "w": 80,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Tech",
+          "x": 50,
+          "y": 108,
+          "w": 32,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Lead",
+          "x": 50,
+          "y": 126,
+          "w": 32,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "|",
+          "x": 50,
+          "y": 144,
+          "w": 8,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Date:",
+          "x": 50,
+          "y": 162,
+          "w": 40,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "2026-08-13",
+          "x": 50,
+          "y": 180,
+          "w": 80,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        }
+      ]
+    },
+    {
+      "page_num": 2,
+      "text": "--- Slide 2 ---\nSystem Pipeline Overview\nAutomated Document Ingestion & Classification\nStructured Field Extraction with Dynamic Fallback",
+      "confidence": 1.0,
+      "word_boxes": [
+        {
+          "word": "AI",
+          "x": 50,
+          "y": 18,
+          "w": 16,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Document",
+          "x": 50,
+          "y": 36,
+          "w": 64,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Intelligence",
+          "x": 50,
+          "y": 54,
+          "w": 96,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Architecture",
+          "x": 50,
+          "y": 72,
+          "w": 96,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Presenter:",
+          "x": 50,
+          "y": 90,
+          "w": 80,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Tech",
+          "x": 50,
+          "y": 108,
+          "w": 32,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Lead",
+          "x": 50,
+          "y": 126,
+          "w": 32,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "|",
+          "x": 50,
+          "y": 144,
+          "w": 8,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Date:",
+          "x": 50,
+          "y": 162,
+          "w": 40,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "2026-08-13",
+          "x": 50,
+          "y": 180,
+          "w": 80,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "System",
+          "x": 50,
+          "y": 198,
+          "w": 48,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "Pipeline",
+          "x": 50,
+          "y": 216,
+          "w": 64,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "Overview",
+          "x": 50,
+          "y": 234,
+          "w": 64,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "Automated",
+          "x": 50,
+          "y": 252,
+          "w": 72,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "Document",
+          "x": 50,
+          "y": 270,
+          "w": 64,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "Ingestion",
+          "x": 50,
+          "y": 288,
+          "w": 72,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "&",
+          "x": 50,
+          "y": 306,
+          "w": 8,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "Classification",
+          "x": 50,
+          "y": 324,
+          "w": 112,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "Structured",
+          "x": 50,
+          "y": 342,
+          "w": 80,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "Field",
+          "x": 50,
+          "y": 360,
+          "w": 40,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "Extraction",
+          "x": 50,
+          "y": 378,
+          "w": 80,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "with",
+          "x": 50,
+          "y": 396,
+          "w": 32,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "Dynamic",
+          "x": 50,
+          "y": 414,
+          "w": 56,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 2
+        },
+        {
+          "word": "Fallback",
+          "x": 50,
+          "y": 432,
+          "w": 64,
+          "h": 14,
+          "confidence": 1.0,
+          "page_num": 2
+        }
+      ]
+    }
+  ],
+  "extraction_method": "native_pptx"
+}

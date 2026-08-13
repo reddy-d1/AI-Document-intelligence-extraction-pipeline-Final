@@ -1,0 +1,554 @@
+{
+  "raw_text": "TAX INVOICE\nSold By: Acme Cloud Technologies Inc\nRegd Office: 100 Innovation Way, Tech Park\nPAN No: AAICA3918J\nGST Registration No: 29AAICA3918J1ZE\nInvoice Number: INV-2026-8890\nInvoice Date: 12.08.2026\nOrder Number: PO-405-9921\nBilling Address: Zenith Solutions Ltd, Tower B, City Center\nItems Ordered:\n1 Cloud Enterprise License 1000.00 1 1000.00 18% IGST 180.00 1180.00\nSubtotal: $1,000.00\nTax: $180.00\nTotal Amount: $1,180.00",
+  "confidence": 1.0,
+  "pages": [
+    {
+      "page_num": 1,
+      "text": "TAX INVOICE\nSold By: Acme Cloud Technologies Inc\nRegd Office: 100 Innovation Way, Tech Park\nPAN No: AAICA3918J\nGST Registration No: 29AAICA3918J1ZE\nInvoice Number: INV-2026-8890\nInvoice Date: 12.08.2026\nOrder Number: PO-405-9921\nBilling Address: Zenith Solutions Ltd, Tower B, City Center\nItems Ordered:\n1 Cloud Enterprise License 1000.00 1 1000.00 18% IGST 180.00 1180.00\nSubtotal: $1,000.00\nTax: $180.00\nTotal Amount: $1,180.00",
+      "confidence": 1.0,
+      "word_boxes": [
+        {
+          "word": "TAX",
+          "x": 50,
+          "y": 38,
+          "w": 38,
+          "h": 27,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "INVOICE",
+          "x": 94,
+          "y": 38,
+          "w": 82,
+          "h": 27,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Sold",
+          "x": 50,
+          "y": 78,
+          "w": 22,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "By:",
+          "x": 75,
+          "y": 78,
+          "w": 15,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Acme",
+          "x": 94,
+          "y": 78,
+          "w": 28,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Cloud",
+          "x": 125,
+          "y": 78,
+          "w": 28,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Technologies",
+          "x": 156,
+          "y": 78,
+          "w": 65,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Inc",
+          "x": 225,
+          "y": 78,
+          "w": 14,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Regd",
+          "x": 50,
+          "y": 99,
+          "w": 23,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Office:",
+          "x": 76,
+          "y": 99,
+          "w": 28,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "100",
+          "x": 108,
+          "y": 99,
+          "w": 16,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Innovation",
+          "x": 127,
+          "y": 99,
+          "w": 46,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Way,",
+          "x": 176,
+          "y": 99,
+          "w": 22,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Tech",
+          "x": 202,
+          "y": 99,
+          "w": 22,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Park",
+          "x": 227,
+          "y": 99,
+          "w": 20,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "PAN",
+          "x": 50,
+          "y": 119,
+          "w": 20,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "No:",
+          "x": 73,
+          "y": 119,
+          "w": 15,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "AAICA3918J",
+          "x": 91,
+          "y": 119,
+          "w": 57,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "GST",
+          "x": 50,
+          "y": 139,
+          "w": 20,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Registration",
+          "x": 73,
+          "y": 139,
+          "w": 53,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "No:",
+          "x": 129,
+          "y": 139,
+          "w": 15,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "29AAICA3918J1ZE",
+          "x": 147,
+          "y": 139,
+          "w": 86,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Invoice",
+          "x": 50,
+          "y": 168,
+          "w": 34,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Number:",
+          "x": 87,
+          "y": 168,
+          "w": 42,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "INV-2026-8890",
+          "x": 133,
+          "y": 168,
+          "w": 74,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Invoice",
+          "x": 50,
+          "y": 188,
+          "w": 34,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Date:",
+          "x": 87,
+          "y": 188,
+          "w": 26,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "12.08.2026",
+          "x": 117,
+          "y": 188,
+          "w": 55,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Order",
+          "x": 50,
+          "y": 209,
+          "w": 25,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Number:",
+          "x": 78,
+          "y": 209,
+          "w": 38,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "PO-405-9921",
+          "x": 119,
+          "y": 209,
+          "w": 60,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Billing",
+          "x": 50,
+          "y": 239,
+          "w": 26,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Address:",
+          "x": 79,
+          "y": 239,
+          "w": 39,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Zenith",
+          "x": 121,
+          "y": 239,
+          "w": 27,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Solutions",
+          "x": 152,
+          "y": 239,
+          "w": 41,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Ltd,",
+          "x": 196,
+          "y": 239,
+          "w": 16,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Tower",
+          "x": 215,
+          "y": 239,
+          "w": 27,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "B,",
+          "x": 246,
+          "y": 239,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "City",
+          "x": 258,
+          "y": 239,
+          "w": 17,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Center",
+          "x": 278,
+          "y": 239,
+          "w": 30,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Items",
+          "x": 50,
+          "y": 268,
+          "w": 26,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Ordered:",
+          "x": 79,
+          "y": 268,
+          "w": 43,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "1",
+          "x": 50,
+          "y": 290,
+          "w": 5,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Cloud",
+          "x": 57,
+          "y": 290,
+          "w": 23,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Enterprise",
+          "x": 83,
+          "y": 290,
+          "w": 41,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "License",
+          "x": 127,
+          "y": 290,
+          "w": 31,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "1000.00",
+          "x": 160,
+          "y": 290,
+          "w": 32,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "1",
+          "x": 195,
+          "y": 290,
+          "w": 5,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "1000.00",
+          "x": 203,
+          "y": 290,
+          "w": 32,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "18%",
+          "x": 238,
+          "y": 290,
+          "w": 18,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "IGST",
+          "x": 258,
+          "y": 290,
+          "w": 21,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "180.00",
+          "x": 282,
+          "y": 290,
+          "w": 27,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "1180.00",
+          "x": 312,
+          "y": 290,
+          "w": 32,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Subtotal:",
+          "x": 50,
+          "y": 328,
+          "w": 43,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "$1,000.00",
+          "x": 96,
+          "y": 328,
+          "w": 48,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Tax:",
+          "x": 50,
+          "y": 348,
+          "w": 21,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "$180.00",
+          "x": 74,
+          "y": 348,
+          "w": 39,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Total",
+          "x": 50,
+          "y": 367,
+          "w": 26,
+          "h": 16,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Amount:",
+          "x": 80,
+          "y": 367,
+          "w": 44,
+          "h": 16,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "$1,180.00",
+          "x": 128,
+          "y": 367,
+          "w": 53,
+          "h": 16,
+          "confidence": 1.0,
+          "page_num": 1
+        }
+      ]
+    }
+  ],
+  "extraction_method": "native_pdf"
+}

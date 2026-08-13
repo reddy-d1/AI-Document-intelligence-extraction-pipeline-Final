@@ -1,0 +1,500 @@
+{
+  "raw_text": "CURRICULUM VITAE\nAnanya Verma\nEmail: ananya.verma@example.com | Phone: +1-555-019-2831\nLinkedIn: linkedin.com/in/ananya-verma | GitHub: github.com/ananya-v\nWORK EXPERIENCE\nSenior AI Engineer - CyberCorp (2023 - Present)\nArchitected multi-modal document extraction pipelines using Python and Claude.\nEDUCATION\nB.Tech Computer Science - Institute of Technology (2019 - 2023)\nTECHNICAL SKILLS\nPython, TypeScript, FastAPI, React, PostgreSQL, Docker, PyMuPDF, OpenCV",
+  "confidence": 1.0,
+  "pages": [
+    {
+      "page_num": 1,
+      "text": "CURRICULUM VITAE\nAnanya Verma\nEmail: ananya.verma@example.com | Phone: +1-555-019-2831\nLinkedIn: linkedin.com/in/ananya-verma | GitHub: github.com/ananya-v\nWORK EXPERIENCE\nSenior AI Engineer - CyberCorp (2023 - Present)\nArchitected multi-modal document extraction pipelines using Python and Claude.\nEDUCATION\nB.Tech Computer Science - Institute of Technology (2019 - 2023)\nTECHNICAL SKILLS\nPython, TypeScript, FastAPI, React, PostgreSQL, Docker, PyMuPDF, OpenCV",
+      "confidence": 1.0,
+      "word_boxes": [
+        {
+          "word": "CURRICULUM",
+          "x": 50,
+          "y": 40,
+          "w": 120,
+          "h": 24,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "VITAE",
+          "x": 175,
+          "y": 40,
+          "w": 52,
+          "h": 24,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Ananya",
+          "x": 50,
+          "y": 72,
+          "w": 54,
+          "h": 21,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Verma",
+          "x": 108,
+          "y": 72,
+          "w": 47,
+          "h": 21,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Email:",
+          "x": 50,
+          "y": 99,
+          "w": 27,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "ananya.verma@example.com",
+          "x": 80,
+          "y": 99,
+          "w": 132,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "|",
+          "x": 216,
+          "y": 99,
+          "w": 2,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Phone:",
+          "x": 221,
+          "y": 99,
+          "w": 31,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "+1-555-019-2831",
+          "x": 256,
+          "y": 99,
+          "w": 76,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "LinkedIn:",
+          "x": 50,
+          "y": 114,
+          "w": 40,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "linkedin.com/in/ananya-verma",
+          "x": 93,
+          "y": 114,
+          "w": 132,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "|",
+          "x": 228,
+          "y": 114,
+          "w": 2,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "GitHub:",
+          "x": 234,
+          "y": 114,
+          "w": 33,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "github.com/ananya-v",
+          "x": 271,
+          "y": 114,
+          "w": 92,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "WORK",
+          "x": 50,
+          "y": 137,
+          "w": 37,
+          "h": 16,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "EXPERIENCE",
+          "x": 90,
+          "y": 137,
+          "w": 77,
+          "h": 16,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Senior",
+          "x": 50,
+          "y": 159,
+          "w": 28,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "AI",
+          "x": 81,
+          "y": 159,
+          "w": 9,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Engineer",
+          "x": 93,
+          "y": 159,
+          "w": 40,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "-",
+          "x": 136,
+          "y": 159,
+          "w": 3,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "CyberCorp",
+          "x": 142,
+          "y": 159,
+          "w": 48,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "(2023",
+          "x": 193,
+          "y": 159,
+          "w": 25,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "-",
+          "x": 222,
+          "y": 159,
+          "w": 3,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Present)",
+          "x": 228,
+          "y": 159,
+          "w": 37,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Architected",
+          "x": 50,
+          "y": 175,
+          "w": 45,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "multi-modal",
+          "x": 97,
+          "y": 175,
+          "w": 46,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "document",
+          "x": 146,
+          "y": 175,
+          "w": 39,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "extraction",
+          "x": 188,
+          "y": 175,
+          "w": 39,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "pipelines",
+          "x": 230,
+          "y": 175,
+          "w": 35,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "using",
+          "x": 268,
+          "y": 175,
+          "w": 21,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Python",
+          "x": 292,
+          "y": 175,
+          "w": 28,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "and",
+          "x": 322,
+          "y": 175,
+          "w": 15,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Claude.",
+          "x": 340,
+          "y": 175,
+          "w": 31,
+          "h": 12,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "EDUCATION",
+          "x": 50,
+          "y": 197,
+          "w": 70,
+          "h": 16,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "B.Tech",
+          "x": 50,
+          "y": 219,
+          "w": 31,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Computer",
+          "x": 84,
+          "y": 219,
+          "w": 43,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Science",
+          "x": 131,
+          "y": 219,
+          "w": 35,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "-",
+          "x": 169,
+          "y": 219,
+          "w": 3,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Institute",
+          "x": 175,
+          "y": 219,
+          "w": 35,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "of",
+          "x": 213,
+          "y": 219,
+          "w": 8,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Technology",
+          "x": 224,
+          "y": 219,
+          "w": 51,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "(2019",
+          "x": 278,
+          "y": 219,
+          "w": 25,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "-",
+          "x": 307,
+          "y": 219,
+          "w": 3,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "2023)",
+          "x": 313,
+          "y": 219,
+          "w": 25,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "TECHNICAL",
+          "x": 50,
+          "y": 242,
+          "w": 68,
+          "h": 16,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "SKILLS",
+          "x": 121,
+          "y": 242,
+          "w": 40,
+          "h": 16,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Python,",
+          "x": 50,
+          "y": 264,
+          "w": 33,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "TypeScript,",
+          "x": 86,
+          "y": 264,
+          "w": 50,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "FastAPI,",
+          "x": 140,
+          "y": 264,
+          "w": 38,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "React,",
+          "x": 181,
+          "y": 264,
+          "w": 28,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "PostgreSQL,",
+          "x": 212,
+          "y": 264,
+          "w": 57,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Docker,",
+          "x": 272,
+          "y": 264,
+          "w": 34,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "PyMuPDF,",
+          "x": 310,
+          "y": 264,
+          "w": 48,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "OpenCV",
+          "x": 361,
+          "y": 264,
+          "w": 38,
+          "h": 13,
+          "confidence": 1.0,
+          "page_num": 1
+        }
+      ]
+    }
+  ],
+  "extraction_method": "native_pdf"
+}

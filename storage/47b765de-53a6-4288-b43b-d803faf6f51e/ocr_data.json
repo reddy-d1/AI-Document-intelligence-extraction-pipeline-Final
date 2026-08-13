@@ -1,0 +1,194 @@
+{
+  "raw_text": "INVOICE\nInvoice Number: INV-2026-8888\nInvoice Date: 2026-08-11\nVendor: TechCorp Solutions Inc.\nSubtotal: $2,000.00 | Tax: $200.00 | Total Amount: $2,200.00",
+  "confidence": 1.0,
+  "pages": [
+    {
+      "page_num": 1,
+      "text": "INVOICE\nInvoice Number: INV-2026-8888\nInvoice Date: 2026-08-11\nVendor: TechCorp Solutions Inc.\nSubtotal: $2,000.00 | Tax: $200.00 | Total Amount: $2,200.00",
+      "confidence": 1.0,
+      "word_boxes": [
+        {
+          "word": "INVOICE",
+          "x": 50,
+          "y": 74,
+          "w": 98,
+          "h": 32,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Invoice",
+          "x": 50,
+          "y": 127,
+          "w": 38,
+          "h": 16,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Number:",
+          "x": 91,
+          "y": 127,
+          "w": 46,
+          "h": 16,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "INV-2026-8888",
+          "x": 140,
+          "y": 127,
+          "w": 81,
+          "h": 16,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Invoice",
+          "x": 50,
+          "y": 147,
+          "w": 38,
+          "h": 16,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Date:",
+          "x": 91,
+          "y": 147,
+          "w": 28,
+          "h": 16,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "2026-08-11",
+          "x": 123,
+          "y": 147,
+          "w": 61,
+          "h": 16,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Vendor:",
+          "x": 50,
+          "y": 167,
+          "w": 42,
+          "h": 16,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "TechCorp",
+          "x": 95,
+          "y": 167,
+          "w": 52,
+          "h": 16,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Solutions",
+          "x": 151,
+          "y": 167,
+          "w": 49,
+          "h": 16,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Inc.",
+          "x": 204,
+          "y": 167,
+          "w": 19,
+          "h": 16,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Subtotal:",
+          "x": 50,
+          "y": 187,
+          "w": 47,
+          "h": 16,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "$2,000.00",
+          "x": 100,
+          "y": 187,
+          "w": 53,
+          "h": 16,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "|",
+          "x": 157,
+          "y": 187,
+          "w": 3,
+          "h": 16,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Tax:",
+          "x": 163,
+          "y": 187,
+          "w": 23,
+          "h": 16,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "$200.00",
+          "x": 190,
+          "y": 187,
+          "w": 43,
+          "h": 16,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "|",
+          "x": 237,
+          "y": 187,
+          "w": 3,
+          "h": 16,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Total",
+          "x": 243,
+          "y": 187,
+          "w": 26,
+          "h": 16,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Amount:",
+          "x": 273,
+          "y": 187,
+          "w": 44,
+          "h": 16,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "$2,200.00",
+          "x": 321,
+          "y": 187,
+          "w": 53,
+          "h": 16,
+          "confidence": 1.0,
+          "page_num": 1
+        }
+      ]
+    }
+  ],
+  "extraction_method": "native_pdf"
+}

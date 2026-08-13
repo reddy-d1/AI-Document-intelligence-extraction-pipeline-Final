@@ -1,0 +1,9 @@
+STORE RECEIPT
+Merchant: Metro Supermarket
+Transaction Date: 2026-08-11
+Payment Method: Visa Credit Card
+Item 1: Organic Milk  qty: 2  price: 4.50  total: 9.00
+Item 2: Whole Bread   qty: 1  price: 3.00  total: 3.00
+Subtotal: $12.00
+Tax: $1.20
+Total Amount Paid: $13.20

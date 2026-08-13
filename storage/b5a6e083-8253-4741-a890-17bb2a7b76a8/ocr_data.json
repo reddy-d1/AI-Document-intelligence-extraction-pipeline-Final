@@ -1,0 +1,176 @@
+{
+  "raw_text": "SERVICE AGREEMENT\nContract Title: Enterprise Cloud SLA\nEffective Date: 2026-05-01\nFirst Party: Omega Corp\nSecond Party: Zenith Labs",
+  "confidence": 1.0,
+  "pages": [
+    {
+      "page_num": 1,
+      "text": "SERVICE AGREEMENT\nContract Title: Enterprise Cloud SLA\nEffective Date: 2026-05-01\nFirst Party: Omega Corp\nSecond Party: Zenith Labs",
+      "confidence": 1.0,
+      "word_boxes": [
+        {
+          "word": "SERVICE",
+          "x": 50,
+          "y": 56,
+          "w": 96,
+          "h": 30,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "AGREEMENT",
+          "x": 152,
+          "y": 56,
+          "w": 139,
+          "h": 30,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Contract",
+          "x": 50,
+          "y": 108,
+          "w": 41,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Title:",
+          "x": 94,
+          "y": 108,
+          "w": 23,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Enterprise",
+          "x": 121,
+          "y": 108,
+          "w": 50,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Cloud",
+          "x": 174,
+          "y": 108,
+          "w": 28,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "SLA",
+          "x": 206,
+          "y": 108,
+          "w": 20,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Effective",
+          "x": 50,
+          "y": 128,
+          "w": 42,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Date:",
+          "x": 95,
+          "y": 128,
+          "w": 26,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "2026-05-01",
+          "x": 124,
+          "y": 128,
+          "w": 56,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "First",
+          "x": 50,
+          "y": 148,
+          "w": 21,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Party:",
+          "x": 74,
+          "y": 148,
+          "w": 28,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Omega",
+          "x": 106,
+          "y": 148,
+          "w": 36,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Corp",
+          "x": 145,
+          "y": 148,
+          "w": 23,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Second",
+          "x": 50,
+          "y": 168,
+          "w": 37,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Party:",
+          "x": 90,
+          "y": 168,
+          "w": 28,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Zenith",
+          "x": 122,
+          "y": 168,
+          "w": 30,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Labs",
+          "x": 155,
+          "y": 168,
+          "w": 23,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        }
+      ]
+    }
+  ],
+  "extraction_method": "native_pdf"
+}

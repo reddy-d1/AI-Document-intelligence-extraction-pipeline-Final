@@ -1,0 +1,140 @@
+{
+  "raw_text": "INVOICE\nInvoice Number: INV-2026-STAT\nVendor: Analytics Corp\nSubtotal: $2,000.00\nTax: $200.00\nTotal Amount: $2,200.00",
+  "confidence": 1.0,
+  "pages": [
+    {
+      "page_num": 1,
+      "text": "INVOICE\nInvoice Number: INV-2026-STAT\nVendor: Analytics Corp\nSubtotal: $2,000.00\nTax: $200.00\nTotal Amount: $2,200.00",
+      "confidence": 1.0,
+      "word_boxes": [
+        {
+          "word": "INVOICE",
+          "x": 50,
+          "y": 74,
+          "w": 98,
+          "h": 32,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Invoice",
+          "x": 50,
+          "y": 127,
+          "w": 38,
+          "h": 16,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Number:",
+          "x": 91,
+          "y": 127,
+          "w": 46,
+          "h": 16,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "INV-2026-STAT",
+          "x": 140,
+          "y": 127,
+          "w": 85,
+          "h": 16,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Vendor:",
+          "x": 50,
+          "y": 147,
+          "w": 42,
+          "h": 16,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Analytics",
+          "x": 95,
+          "y": 147,
+          "w": 48,
+          "h": 16,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Corp",
+          "x": 146,
+          "y": 147,
+          "w": 26,
+          "h": 16,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Subtotal:",
+          "x": 50,
+          "y": 167,
+          "w": 47,
+          "h": 16,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "$2,000.00",
+          "x": 100,
+          "y": 167,
+          "w": 53,
+          "h": 16,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Tax:",
+          "x": 50,
+          "y": 187,
+          "w": 23,
+          "h": 16,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "$200.00",
+          "x": 76,
+          "y": 187,
+          "w": 43,
+          "h": 16,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Total",
+          "x": 50,
+          "y": 207,
+          "w": 26,
+          "h": 16,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Amount:",
+          "x": 80,
+          "y": 207,
+          "w": 44,
+          "h": 16,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "$2,200.00",
+          "x": 128,
+          "y": 207,
+          "w": 53,
+          "h": 16,
+          "confidence": 1.0,
+          "page_num": 1
+        }
+      ]
+    }
+  ],
+  "extraction_method": "native_pdf"
+}

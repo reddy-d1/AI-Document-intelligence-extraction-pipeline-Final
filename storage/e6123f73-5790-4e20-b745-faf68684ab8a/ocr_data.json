@@ -1,0 +1,185 @@
+{
+  "raw_text": "INVOICE\nInvoice Number: INV-E2E-1001\nVendor Name: Apex Cloud Solutions\nInvoice Date: 2026-08-10\nSubtotal: $5,000.00\nTax: $500.00\nTotal Amount: $5,500.00",
+  "confidence": 1.0,
+  "pages": [
+    {
+      "page_num": 1,
+      "text": "INVOICE\nInvoice Number: INV-E2E-1001\nVendor Name: Apex Cloud Solutions\nInvoice Date: 2026-08-10\nSubtotal: $5,000.00\nTax: $500.00\nTotal Amount: $5,500.00",
+      "confidence": 1.0,
+      "word_boxes": [
+        {
+          "word": "INVOICE",
+          "x": 50,
+          "y": 56,
+          "w": 90,
+          "h": 30,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Invoice",
+          "x": 50,
+          "y": 108,
+          "w": 34,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Number:",
+          "x": 87,
+          "y": 108,
+          "w": 42,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "INV-E2E-1001",
+          "x": 133,
+          "y": 108,
+          "w": 70,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Vendor",
+          "x": 50,
+          "y": 128,
+          "w": 35,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Name:",
+          "x": 88,
+          "y": 128,
+          "w": 32,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Apex",
+          "x": 123,
+          "y": 128,
+          "w": 25,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Cloud",
+          "x": 152,
+          "y": 128,
+          "w": 28,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Solutions",
+          "x": 183,
+          "y": 128,
+          "w": 45,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Invoice",
+          "x": 50,
+          "y": 148,
+          "w": 34,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Date:",
+          "x": 87,
+          "y": 148,
+          "w": 26,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "2026-08-10",
+          "x": 117,
+          "y": 148,
+          "w": 56,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Subtotal:",
+          "x": 50,
+          "y": 168,
+          "w": 43,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "$5,000.00",
+          "x": 96,
+          "y": 168,
+          "w": 48,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Tax:",
+          "x": 50,
+          "y": 188,
+          "w": 21,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "$500.00",
+          "x": 74,
+          "y": 188,
+          "w": 39,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Total",
+          "x": 50,
+          "y": 208,
+          "w": 24,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "Amount:",
+          "x": 77,
+          "y": 208,
+          "w": 40,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        },
+        {
+          "word": "$5,500.00",
+          "x": 121,
+          "y": 208,
+          "w": 48,
+          "h": 15,
+          "confidence": 1.0,
+          "page_num": 1
+        }
+      ]
+    }
+  ],
+  "extraction_method": "native_pdf"
+}
