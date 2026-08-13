@@ -23,7 +23,7 @@ from app.schemas.classification import ClassificationResponse, ClassificationOve
 from app.schemas.extraction_schemas import ExtractedFieldResponse, FieldCorrectionRequest, ExtractionSummaryResponse
 from app.schemas.validation import ValidationResultResponse, ValidationGroupedResponse
 from app.schemas.export import StructuredDocumentExport, BatchExportRequest
-from app.services.preprocessing import ALLOWED_EXTENSIONS, MAX_FILE_SIZE
+from app.services.preprocessing import ALLOWED_EXTENSIONS, MAX_FILE_SIZE, preprocess_document
 from app.services.ocr_service import process_document_ocr
 from app.services.classification_service import run_document_classification, override_document_classification
 from app.services.extraction_service import run_document_extraction, correct_extracted_field
@@ -184,14 +184,27 @@ def get_document_page_image(
     if os.path.exists(page_img_path):
         return FileResponse(page_img_path, media_type="image/png")
 
-    # If processed page doesn't exist, check original file if it's an image
+    # On-the-fly preprocessing fallback for any document format (PDF, PNG, DOCX, PPTX, etc.)
     if os.path.exists(doc.file_path):
+        try:
+            prep_res = preprocess_document(id, doc.file_path, settings.STORAGE_DIR)
+            new_page_count = prep_res.get("page_count", doc.page_count)
+            if new_page_count and new_page_count != doc.page_count:
+                doc.page_count = new_page_count
+                db.commit()
+                db.refresh(doc)
+        except Exception as pe:
+            logger.warning(f"On-the-fly preprocessing notice for document '{id}': {str(pe)}")
+
+        if os.path.exists(page_img_path):
+            return FileResponse(page_img_path, media_type="image/png")
+
+        # Additional fallback if original file is an image
         ext = os.path.splitext(doc.file_path)[1].lower()
         if ext in {".png", ".jpg", ".jpeg", ".tiff", ".tif"}:
             media_type = "image/png" if ext == ".png" else "image/jpeg"
             return FileResponse(doc.file_path, media_type=media_type)
         elif ext == ".pdf":
-            # Dynamically render requested PDF page to PNG on the fly if needed
             try:
                 import fitz
                 pdf_doc = fitz.open(doc.file_path)

@@ -138,6 +138,10 @@ export const fetchDocumentApi = async (id: string): Promise<DocumentMetadata> =>
   return response.data;
 };
 
+export const getDocumentImageUrl = (documentId: string, page: number = 1): string => {
+  return `${API_BASE_URL}/documents/${documentId}/image?page=${page}`;
+};
+
 export const fetchDocumentStatusApi = async (id: string): Promise<PipelineStatusResponse> => {
   const response = await apiClient.get(`/documents/${id}/status`);
   return response.data;

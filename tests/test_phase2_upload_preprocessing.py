@@ -96,7 +96,13 @@ def test_upload_and_preprocess_pipeline():
     assert os.path.exists(page1_img)
     assert os.path.exists(page2_img)
 
-    # 4. Test GET /api/v1/documents (listing endpoint)
+    # 4. Test GET /api/v1/documents/{id}/image endpoint
+    res_img = client.get(f"/api/v1/documents/{doc_id}/image?page=1")
+    assert res_img.status_code == 200
+    assert res_img.headers["content-type"] == "image/png"
+    assert len(res_img.content) > 0
+
+    # 5. Test GET /api/v1/documents (listing endpoint)
     res_list = client.get("/api/v1/documents?page=1&page_size=10")
     assert res_list.status_code == 200
     list_data = res_list.json()

@@ -1,5 +1,6 @@
-import React, { useState } from 'react';
-import { ZoomIn, ZoomOut, Maximize2, ChevronLeft, ChevronRight, FileText } from 'lucide-react';
+import React, { useState, useEffect } from 'react';
+import { ZoomIn, ZoomOut, Maximize2, ChevronLeft, ChevronRight, FileText, RotateCw } from 'lucide-react';
+import { getDocumentImageUrl } from '../services/api';
 
 interface DocumentViewerProps {
   documentId: string;
@@ -16,6 +17,17 @@ export const DocumentViewer: React.FC<DocumentViewerProps> = ({
   const [zoom, setZoom] = useState(100);
   const [imgError, setImgError] = useState(false);
 
+  // Reset page and error state when documentId changes
+  useEffect(() => {
+    setCurrentPage(1);
+    setImgError(false);
+  }, [documentId]);
+
+  // Reset error state when page changes
+  useEffect(() => {
+    setImgError(false);
+  }, [currentPage]);
+
   const handlePrevPage = () => {
     if (currentPage > 1) setCurrentPage((prev) => prev - 1);
   };
@@ -29,7 +41,7 @@ export const DocumentViewer: React.FC<DocumentViewerProps> = ({
   const handleResetZoom = () => setZoom(100);
 
   // Storage path for preprocessed page images
-  const pageImgUrl = `/api/v1/documents/${documentId}/image?page=${currentPage}`;
+  const pageImgUrl = getDocumentImageUrl(documentId, currentPage);
 
   return (
     <div className="glass-panel rounded-2xl flex flex-col h-full overflow-hidden border border-slate-800">
@@ -119,8 +131,15 @@ export const DocumentViewer: React.FC<DocumentViewerProps> = ({
             </div>
             <div>
               <p className="text-sm font-medium text-slate-300">Document Image Page {currentPage}</p>
-              <p className="text-xs text-slate-500 mt-1">Processed page image stored under `/storage/{documentId}/processed/`</p>
+              <p className="text-xs text-slate-500 mt-1">Image preview loading or processing under `/storage/{documentId}/`</p>
             </div>
+            <button
+              onClick={() => setImgError(false)}
+              className="px-3 py-1.5 bg-blue-600/80 hover:bg-blue-600 text-white rounded-lg text-xs font-medium flex items-center space-x-1.5 transition-colors mt-2"
+            >
+              <RotateCw className="w-3.5 h-3.5" />
+              <span>Retry Loading Image</span>
+            </button>
           </div>
         )}
       </div>
