@@ -1,11 +1,12 @@
 import axios from 'axios';
 import { DocumentMetadata, HealthResponse } from '../types';
 
-const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || '/api/v1';
+const rawBaseUrl = import.meta.env.VITE_API_BASE_URL || '/api/v1';
+const API_BASE_URL = rawBaseUrl.replace(/\/+$/, '');
 
 export const apiClient = axios.create({
   baseURL: API_BASE_URL,
-  timeout: 10000, // 10-second request timeout to prevent interface freeze on network stalls
+  timeout: 30000, // 30-second timeout to handle Render free-tier cold starts cleanly
   headers: {
     'Content-Type': 'application/json',
   },
@@ -15,16 +16,17 @@ apiClient.interceptors.response.use(
   (response) => response,
   (error) => {
     if (error.code === 'ECONNABORTED' || error.message?.includes('timeout')) {
-      console.error('API Request Timed Out (10s limit):', error.config?.url);
+      console.error('API Request Timed Out:', error.config?.url);
     }
     return Promise.reject(error);
   }
 );
 
 export const fetchHealthStatus = async (): Promise<HealthResponse> => {
-  const response = await apiClient.get('/health/deep');
+  const response = await apiClient.get('/health/deep', { timeout: 45000 });
   return response.data;
 };
+
 
 
 export interface UploadResponse {
