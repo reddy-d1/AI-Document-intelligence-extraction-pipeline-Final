@@ -1,28 +1,30 @@
 import React, { useEffect, useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
-import { 
-  ArrowLeft, 
-  Save, 
-  Download, 
-  CheckCircle2, 
-  AlertTriangle, 
-  Cpu 
+import {
+  ArrowLeft,
+  Save,
+  Download,
+  CheckCircle2,
+  AlertTriangle,
+  Cpu
 } from 'lucide-react';
 import { DocumentViewer } from '../components/DocumentViewer';
 import { EditableFieldForm } from '../components/EditableFieldForm';
 import { ProcessingStatusBadge } from '../components/ProcessingStatusBadge';
-import { 
-  fetchDocumentApi, 
-  fetchDocumentFieldsApi, 
-  fetchDocumentValidationApi, 
-  updateExtractedFieldApi, 
-  overrideClassificationApi, 
-  triggerValidateDocumentApi, 
-  exportDocumentApi, 
-  ExtractedFieldItem, 
-  ValidationItem, 
-  ValidationGroupedResponse 
+import {
+  fetchDocumentApi,
+  fetchDocumentFieldsApi,
+  fetchDocumentValidationApi,
+  updateExtractedFieldApi,
+  overrideClassificationApi,
+  triggerValidateDocumentApi,
+  exportDocumentApi,
+  ExtractedFieldItem,
+  ValidationItem,
+  ValidationGroupedResponse,
+  apiClient
 } from '../services/api';
+
 import { DocumentMetadata } from '../types';
 
 export const ReviewPage: React.FC = () => {
@@ -245,11 +247,10 @@ export const ReviewPage: React.FC = () => {
             onClick={handleSaveCorrections}
             disabled={isSaving || !hasUnsavedChanges}
             title={hasUnsavedChanges ? "Click to save all pending field corrections" : "Edit any field below to enable saving corrections"}
-            className={`flex items-center space-x-1.5 px-3 py-1.5 rounded-lg text-xs font-semibold transition-all ${
-              hasUnsavedChanges
-                ? 'bg-amber-600 hover:bg-amber-500 text-white shadow-lg shadow-amber-600/30 scale-105'
-                : 'bg-slate-800/80 text-slate-400 opacity-60 cursor-not-allowed'
-            }`}
+            className={`flex items-center space-x-1.5 px-3 py-1.5 rounded-lg text-xs font-semibold transition-all ${hasUnsavedChanges
+              ? 'bg-amber-600 hover:bg-amber-500 text-white shadow-lg shadow-amber-600/30 scale-105'
+              : 'bg-slate-800/80 text-slate-400 opacity-60 cursor-not-allowed'
+              }`}
           >
             <Save className="w-3.5 h-3.5" />
             <span>{isSaving ? 'Saving...' : 'Save Corrections'}</span>
