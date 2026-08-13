@@ -77,6 +77,18 @@ except Exception as e:
 app.include_router(api_router, prefix="/api/v1")
 
 
+@app.get("/", tags=["Health Checks"])
+def root():
+    """Root endpoint to confirm API service status"""
+    return {
+        "status": "healthy",
+        "app_name": settings.PROJECT_NAME,
+        "environment": settings.ENVIRONMENT,
+        "docs_url": "/docs",
+        "health_check": "/api/v1/health/deep"
+    }
+
+
 @app.get("/health", tags=["Health Checks"])
 def health_check():
     """Basic service healthcheck endpoint"""
@@ -85,3 +97,4 @@ def health_check():
         "app_name": settings.PROJECT_NAME,
         "environment": settings.ENVIRONMENT
     }
+
